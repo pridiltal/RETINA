@@ -4,7 +4,7 @@ body {
   background-position: center top;
   background-attachment: fixed;
   background-size: cover;
-  animation: slideCover 20s infinite;
+  animation: slideCover 10s infinite;
 }
 
 @keyframes slideCover {
