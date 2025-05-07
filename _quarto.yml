@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "RETINA Lab"
+  
+  favicon: "/images/avatar-nobackground.png"
+  twitter-card:
+      image: "/images/cover.png"
+  open-graph:
+      image: "/images/cover.png"
+  
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

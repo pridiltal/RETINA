@@ -1,0 +1,13 @@
+---
+title: "RETINA Lab"
+css: index.css
+subtitle: |
+ Welcome to RETINA Lab!\
+ \
+ REvolutionising monitoring systems and Techniques in the INformation Age
+about:
+  template: solana
+  image: "images/avatar-nobackground.png"
+  image-width: 25em
+  image-shape: round
+---

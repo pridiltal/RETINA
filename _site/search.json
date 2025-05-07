@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Welcome to RETINA Lab!!",
+    "section": "",
+    "text": "RETINA: (REvolutionising monitoring systems and Techniques in the INformation Age”) is a research and innovation project funded by the Organization for Women in Science for the Developing World (OWSD), a program unit of United Nations Educational, Scientific and Cultural Organization (UNESCO). The project is funded under OWSD Early Career Fellowship scheme awarded to Dr. Priyanga Dilini Talagala (2021-2025).\nWith the spread of the Internet of Things and as more and more devices are providing live streaming data, detecting anomalies in this data is becoming an increasingly important research topic. Anomaly detection has been explored within diverse research areas and application domains such as fraud detection, health monitoring, and environmental monitoring. Despite the ever-increasing attention and resources devoted to it, some challenges in anomaly detection are not supported by existing methods. RETINA project is in an attempt to reduce this gap by introducing novel anomaly detection frameworks for different data scenarios."
+  },
+  {
+    "objectID": "about.html#learn-more-about-our-acronym-retina",
+    "href": "about.html#learn-more-about-our-acronym-retina",
+    "title": "Welcome to RETINA Lab!!",
+    "section": "Learn more about our acronym: RETINA",
+    "text": "Learn more about our acronym: RETINA\n\n\n\nImage credit: https://pixabay.com/photos/owl-eyes-stare-bird-feather-beak-2361801/“\n\n\nOur acronym stands for “REvolutionising monitoring systems and Techniques in the INformation Age.”\nThe retina is a layer of nerve cells located on the back inside wall of our eyeball, near the optic nerve that helps to convert light into signals that our brain can interpret.\nJust like the retina helps us to convert light into signals that our brain can interpret, the projects under RETINA are expected to convert the data signals into interpretable results through statistics, mathematics and machine learning based frameworks for anomaly detection. The overall aim of this project is therefore to tackle the key mathematical challenges in the early detection of anomalies in different data scenarios."
+  },
+  {
+    "objectID": "about.html#learn-more-about-our-logo",
+    "href": "about.html#learn-more-about-our-logo",
+    "title": "Welcome to RETINA Lab!!",
+    "section": "Learn more about our logo",
+    "text": "Learn more about our logo\n\n\n\nThe RETINA project focuses on four different areas: Anomaly Detection, Data Science, Open Science and Women in STEM fields. The RETINA logo is a symbolic representation of these key focuses of the RETINA project.\n\nThe retina is a layer of nerve cells located on the back inside wall of our eyeball which helps us to convert light into signals that our brain can interpret. Several parts of the eye are associated with the retina. Under RETINA project, we do collaborative research to pursue key mathematical challenges in anomaly detection. The RETINA project logo represents the retina inside an eye.\nThe central part of the logo contains Florence Nightingale’s “Rose” diagram. Data Visualization is one of the major pillars of Data Science and Florence Nightingale is a pioneer in the visual presentation of information and statistical graphics. She is a statistician and the founder of modern nursing and Rose plot is one of her unique contributions to data visualization. The RETINA logo recognizes the achievements and contributions of all the women in STEM fields.\n\n\n\n\nFlorence Nightingale. Diagram of the Causes of Mortality in the Army of the East, 1858. Image source: https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram”\n\n\n\nAnomaly detection is an important research area of data mining and it is one of the key focuses of the RETINA project. The rose plot in the logo also contains an anomaly to symbolizes its main focus."
+  }
+]
