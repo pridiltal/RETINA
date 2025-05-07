@@ -1,12 +1,22 @@
-
 body {
   background: black;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.5)), url("images/cover.png");
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
   background-size: cover;
-  overflow-y: hidden;
+  animation: slideCover 20s infinite;
+}
+
+@keyframes slideCover {
+  0% {
+    background-image: url("images/cover.png");
+  }
+  50% {
+    background-image: url("images/acronym.jpg");
+  }
+  100% {
+    background-image: url("images/logo.png");
+  }
 }
 
 #quarto-header nav {
