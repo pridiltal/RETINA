@@ -41,7 +41,7 @@ The [RETINA project](https://retinalab.netlify.app/about) focuses on four differ
 
 <p style="font-size: 0.9em; color: gray;">
 
-Florence Nightingale. Diagram of the Causes of Mortality in the Army of the East, 1858. Image source: [https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram](https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram)
+Florence Nightingale. Diagram of the Causes of Mortality in the Army of the East, 1858. Image source: <https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram>
 
 </p>
 :::

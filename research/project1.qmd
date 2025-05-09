@@ -1,0 +1,11 @@
+---
+title: "Deforestation project"
+description: "Using regression to model COVID-19 trends"
+image: "images/acronym.jpg"
+date: 2024-10-02
+format: html
+---
+
+## Deforestation project
+
+his project explores how weather patterns impact dengue outbreaks in Colombo using linear regression.

@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "RETINA Lab",
+    "section": "",
+    "text": "Project One\nDescription: A brief summary of Project One.\nTech Stack: R, Quarto, Shiny\nView Project\n\n\n\n\n\nProject Two\nDescription: A brief summary of Project Two.\nTech Stack: Python, FastAPI\nView Project\n\n\n\n\n\nProject Two\nDescription: A brief summary of Project Two.\nTech Stack: Python, FastAPI\nView Project"
+  },
+  {
+    "objectID": "research/project1.html",
+    "href": "research/project1.html",
+    "title": "Deforestation project",
+    "section": "",
+    "text": "his project explores how weather patterns impact dengue outbreaks in Colombo using linear regression."
+  },
+  {
+    "objectID": "research/project1.html#deforestation-project",
+    "href": "research/project1.html#deforestation-project",
+    "title": "Deforestation project",
+    "section": "",
+    "text": "his project explores how weather patterns impact dengue outbreaks in Colombo using linear regression."
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Welcome to RETINA Lab!!",
@@ -19,5 +40,12 @@
     "title": "Welcome to RETINA Lab!!",
     "section": "Learn more about our logo",
     "text": "Learn more about our logo\n\n\n\nThe RETINA project focuses on four different areas: Anomaly Detection, Data Science, Open Science and Women in STEM fields. The RETINA logo is a symbolic representation of these key focuses of the RETINA project.\n\nThe retina is a layer of nerve cells located on the back inside wall of our eyeball which helps us to convert light into signals that our brain can interpret. Several parts of the eye are associated with the retina. Under RETINA project, we do collaborative research to pursue key mathematical challenges in anomaly detection. The RETINA project logo represents the retina inside an eye.\nThe central part of the logo contains Florence Nightingale’s “Rose” diagram. Data Visualization is one of the major pillars of Data Science and Florence Nightingale is a pioneer in the visual presentation of information and statistical graphics. She is a statistician and the founder of modern nursing and Rose plot is one of her unique contributions to data visualization. The RETINA logo recognizes the achievements and contributions of all the women in STEM fields.\n\n\n\n\nFlorence Nightingale. Diagram of the Causes of Mortality in the Army of the East, 1858. Image source: https://www.maharam.com/stories/sherlock_florence-nightingales-rose-diagram\n\n\n\nAnomaly detection is an important research area of data mining and it is one of the key focuses of the RETINA project. The rose plot in the logo also contains an anomaly to symbolizes its main focus."
+  },
+  {
+    "objectID": "research/project2.html",
+    "href": "research/project2.html",
+    "title": "Outbreak Forecasting with ML",
+    "section": "",
+    "text": "outbreak project."
   }
 ]

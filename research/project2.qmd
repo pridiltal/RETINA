@@ -1,0 +1,9 @@
+---
+title: "Outbreak Forecasting with ML"
+description: "Using regression to model COVID-19 trends"
+image: "images/acronym.jpg"
+date: 2024-10-01
+format: html
+---
+
+outbreak project.

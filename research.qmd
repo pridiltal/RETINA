@@ -1,0 +1,37 @@
+---
+# title: "Projects"
+format: html
+page-layout: full
+toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/acronym.jpg){width=400px style="float:left; margin-right:1em;"}
+
+### Project One  
+**Description**: A brief summary of Project One.  
+**Tech Stack**: R, Quarto, Shiny  
+[View Project](research/project1.qmd)
+:::
+
+::: {.g-col-4}
+![](images/logo.png){width=400px style="float:left; margin-right:1em;"}
+
+### Project Two  
+**Description**: A brief summary of Project Two.  
+**Tech Stack**: Python, FastAPI  
+[View Project](research/project2.qmd)
+:::
+
+::: {.g-col-4}
+![](images/logo.png){width=400px style="float:left; margin-right:1em;"}
+
+### Project Two  
+**Description**: A brief summary of Project Two.  
+**Tech Stack**: Python, FastAPI  
+[View Project](research/project2.qmd)
+:::
+
+:::

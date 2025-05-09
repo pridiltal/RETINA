@@ -1,1 +1,13 @@
 /* css styles */
+
+.quarto-grid-item {
+  height: 100%;
+  transition: transform 0.2s;
+}
+.quarto-grid-item:hover {
+  transform: scale(1.02);
+}
+.quarto-grid-item .card-img-top {
+  object-fit: cover;
+  height: 200px;
+}
