@@ -9,7 +9,7 @@ body {
 
 @keyframes slideCover {
   0% {
-    background-image: url("images/cover.png");
+    background-image: url("images/cover.jpeg");
   }
   50% {
     background-image: url("images/acronym.jpg");
