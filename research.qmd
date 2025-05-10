@@ -5,34 +5,34 @@ page-layout: full
 toc: false
 ---
 
-::: {.grid}
-
-::: {.g-col-4}
-![](images/research/research-deforestation.png){width=300px style="float:left; margin-right:1em;"}
+:::::: grid
+::: g-col-4
+![](images/research/research-deforestation.png){width="300px" style="float:left; margin-right:1em;"}
 
 ### Anomaly Detection in Image Streams With Explainable AI
-**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding.
-**Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
+
+**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding. **Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
 
 [View Project](research/project1.qmd)
 :::
 
-::: {.g-col-4}
-![](images/logo.png){width=400px style="float:left; margin-right:1em;"}
+::: g-col-4
+![](images/logo.png){width="400px" style="float:left; margin-right:1em;"}
 
-### Project Two  
-**Description**: A brief summary of Project Two.  
-**Tech Stack**: Python, FastAPI  
+### Project Two
+
+**Description**: A brief summary of Project Two.\
+**Tech Stack**: Python, FastAPI\
 [View Project](research/project2.qmd)
 :::
 
-::: {.g-col-4}
-![](images/logo.png){width=400px style="float:left; margin-right:1em;"}
+::: g-col-4
+![](images/logo.png){width="400px" style="float:left; margin-right:1em;"}
 
-### Project Two  
-**Description**: A brief summary of Project Two.  
-**Tech Stack**: Python, FastAPI  
+### Project Two
+
+**Description**: A brief summary of Project Two.\
+**Tech Stack**: Python, FastAPI\
 [View Project](research/project2.qmd)
 :::
-
-:::
+::::::

@@ -6,13 +6,13 @@ toc: false
 ---
 
 
-1. Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the extended abstract titled "Anomaly Detection in Image Streams Using Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D.
+1. Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the extended abstract titled "Anomaly Detection in Image Streams Using Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D. [View Project](research/project1.qmd)
 
 ![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](images/awards/P1IASSL3.JPG){width=30% height=auto }
 
-2. Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category "Degree C1: Science, Technology, Engineering, and Mathematics" for the thesis titled "Anomaly Detection in Image Streams with Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D.
+2. Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category "Degree C1: Science, Technology, Engineering, and Mathematics" for the thesis titled "Anomaly Detection in Image Streams with Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D.  [View Project](research/project1.qmd)
 
-3. First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium 2022, organized by the Data and Advanced Analytics Division of the John Keells Group. Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D (Project Supervisor).
+3. First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium 2022, organized by the Data and Advanced Analytics Division of the John Keells Group. Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D (Project Supervisor).  [View Project](research/project1.qmd)
 
 
 ![Thesis Competition at the OCTAVE Advanced Analysis Symposium](images/awards/octave.jpg){width=60% height=auto }
