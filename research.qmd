@@ -7,32 +7,39 @@ toc: false
 
 :::::: grid
 ::: g-col-4
-![](images/research/research-deforestation.png){width="300px" style="float:left; margin-right:1em;"}
+![](images/research/research-deforestation.png){height="300px" style="float:left; margin-right:1em;"}
 
 ### Anomaly Detection in Image Streams With Explainable AI
 
-**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding. **Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
+**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding. \ 
+
+**Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
 
 [View Project](research/project1.qmd)
 :::
 
 ::: g-col-4
-![](images/logo.png){width="400px" style="float:left; margin-right:1em;"}
+![](images/research/research-CTV.png){height="300px" style="float:left; margin-right:1em;"}
 
-### Project Two
+### CRAN Task View: Anomaly Detection with R
 
-**Description**: A brief summary of Project Two.\
-**Tech Stack**: Python, FastAPI\
+**Description**: This CRAN Task View provides a comprehensive list of R packages for anomaly detection. 
+
+**Keywords**: Anomaly Detection
+
 [View Project](research/project2.qmd)
 :::
 
 ::: g-col-4
-![](images/logo.png){width="400px" style="float:left; margin-right:1em;"}
+![](images/research/research-covid.png){height="300px" style="float:left; margin-right:1em;"}
 
-### Project Two
+### COVID-19 and Online Learning Tools
 
-**Description**: A brief summary of Project Two.\
-**Tech Stack**: Python, FastAPI\
-[View Project](research/project2.qmd)
+
+**Description**: Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic.\
+
+**Keywords**: Anomaly Detection, COVID-19, Distance Education\
+
+[View Project](research/project3.qmd)
 :::
 ::::::

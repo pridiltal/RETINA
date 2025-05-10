@@ -1,0 +1,68 @@
+---
+title: "COVID-19 and Online Learning Tools"
+description: "Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic."
+#image: "fig/research-deforestation.png"
+#date: 2024-07-05
+format: html
+---
+
+## Project Overview
+
+This study explores the use of Google Trends as a proxy to measure public interest in distance education solutions during the COVID-19 pandemic. It presents the first detailed, global-level analysis of web search behavior related to distance learning, combining both quantitative and qualitative perspectives. Unlike prior research that was either limited in scope or narrowly focused, this study examined a wide array of search terms to capture evolving global attention toward digital education tools.
+
+Results revealed a strong cross-correlation between search interest in COVID-19 and distance education-related terms, indicating that public concern about the pandemic significantly influenced online engagement with learning technologies. A comprehensive Google Trends footprint analysis highlighted surges in popularity for specific e-learning platforms, suggesting shifts in user preferences during crisis periods.
+
+Importantly, the study also uncovered psychological implications tied to these behavioral patterns. Spikes in search volumes often coincided with periods of heightened uncertainty and lockdowns—reflecting increased psychological stress and a parallel demand for structured learning environments and support tools. This insight underscores the dual need for educational and mental health support during prolonged disruptions like a pandemic.
+
+From a data science and anomaly detection perspective, these findings are particularly valuable. The sudden, sharp increases in search volume for certain distance learning tools represent clear anomalies in typical web search behavior. Such anomalies—triggered by an external shock like COVID-19—demonstrate how real-world events manifest in digital behavioral data. This aligns with current trends in anomaly detection research, where the goal is to detect anomalies  in  large collection of time series data. The methodology and results of this study offer a compelling case for integrating anomaly detection techniques into the monitoring of online educational tool adoption, especially for crisis-response planning.
+
+
+## Project Team
+
+Dr. Priyanga Dilini Talagala, Department of Computational Mathematics, University of Moratuwa
+
+Dr. Thiyanga Talagala, Department of Statistics, University of Sri Jayewardenepura
+
+
+
+## Outputs
+
+### Publicaitons
+
+1. Talagala, P. D., & Talagala, T. S. (2021). COVID-19 and online learning tools. [arXiv preprint arXiv:2201.06927](https://arxiv.org/abs/2201.06927).
+
+2. Talagala, P.; Talagala, T. (2024). From Crisis to Opportunity: A Google Trends Analysis of Global Interest in Distance Education Tools During and Post the COVID- 19 Pandemic. Editorial Universitat Politècnica de València. 286-295. [https://doi.org/10.4995/CARMA2024.2024.17804](https://ocs.editorial.upv.es/index.php/CARMA/CARMA2024/paper/view/17804)
+
+
+### Presentations 
+
+1. Attention Towards Distance Education Tools During COVID-19 Pandemic - Evidence from Google Trends
+
+Date: Nov 8, 2021 12:00 AM — Nov 19, 2021 12:00 AM
+
+Event: [OWSD 6th General Assembly and International Conference](https://assembly2021.owsd.net/en/about-the-assembly/)
+
+Location: Virtual Conference
+
+[Slides](https://prital23.netlify.app/talks/owsdga62021/owsd_talk#1)
+
+2. From Crisis to Opportunity: A Google Trends Analysis of Global Interest in Distance Education Tools During and Post the COVID-19 Pandemic
+
+Date: June 28, 2024 09:00 AM
+
+Event: [6th International Conference on Advanced Research Methods and Analytics, Valencia, Spain](https://archive.carmaconf.org/carma2024/)
+
+[Slides](https://pridiltal.github.io/CARMA2024/index.pdf)
+
+
+![At the 6th International Conference on Advanced Research Methods and Analytics, Valencia, Spain](fig/CARMA24.png){width="90%" height="auto"}
+
+3. Exploring Dynamics and Trends in Distance Education: Insights from Global Web Search Queries in the Post-Pandemic Era
+
+Date: July 05, 2024 09:00 AM
+
+Event: [8th International Conference on Education and Distance Learning, Paris, France](https://www.icedl.org/index.html)
+
+[Slides](https://pridiltal.github.io/ICEDL2024/index.pdf)
+
+![At the 8th International Conference on Education and Distance Learning, Paris, France](fig/ICEDL24.jpg){width="50%" height="auto"}

@@ -1,8 +1,8 @@
 ---
 title: "Anomaly Detection in Image Streams With Explainable AI"
 description: "An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding."
-image: "images/research/research-deforestation.png"
-date: 2024-10-02
+#image: "fig/research-deforestation.png"
+#date: 2024-10-02
 format: html
 ---
 
@@ -22,11 +22,7 @@ Ms. Nethmee Sellahewa, Faculty of Information Technology, University of Moratuwa
 
 Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
-
-![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](fig/P1IASSL3.JPG){width=50% height=auto }
-
-
-
+![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](fig/P1IASSL3.JPG){width="50%" height="auto"}
 
 ## Outputs
 
@@ -36,26 +32,22 @@ Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
 ### Magazine Articles
 
-2. Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. (2023). Anomaly detection in image streams with explainable AI. University of Moratuwa, Bolgoda Plains Research Magazine. [DOI: https://doi.org/10.31705/BPRM.v3(2).2023.5](https://dl.lib.uom.lk/items/3bc83041-061b-49c2-a7e0-a52df01944c9)
-
+2.  Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. (2023). Anomaly detection in image streams with explainable AI. University of Moratuwa, Bolgoda Plains Research Magazine. [DOI: https://doi.org/10.31705/BPRM.v3(2).2023.5](https://dl.lib.uom.lk/items/3bc83041-061b-49c2-a7e0-a52df01944c9)
 
 ## Awards
 
-This project conducted under my supervision achieved an impressive array of accomplishments both nationally and internationally: 
+This project conducted under my supervision achieved an impressive array of accomplishments both nationally and internationally:
 
-1. Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the extended abstract titled "Anomaly Detection in Image Streams Using Explainable AI." 
+1.  Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the extended abstract titled "Anomaly Detection in Image Streams Using Explainable AI."
 
-2. Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category "Degree C1: Science, Technology, Engineering, and Mathematics" for the thesis titled "Anomaly Detection in Image Streams with Explainable AI." 
+2.  Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category "Degree C1: Science, Technology, Engineering, and Mathematics" for the thesis titled "Anomaly Detection in Image Streams with Explainable AI."
 
-3. First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium, organized by the Data and Advanced Analytics Division of the John Keells Group. 
+3.  First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium, organized by the Data and Advanced Analytics Division of the John Keells Group.
 
-4. The thesis was selected for a poster presentation at the University of Moratuwa Research Week in November 2022.
+4.  The thesis was selected for a poster presentation at the University of Moratuwa Research Week in November 2022.
 
-![ University of Moratuwa Research Week 2022](fig/RW2022.png){width=100% height=auto }
+![University of Moratuwa Research Week 2022](fig/RW2022.png){width="100%" height="auto"}
 
+5.  Nethmi Wijesinghe presented “Anomaly Detection in Image Streams with Explainable AI” at the 3rd Women in Bioinformatics & Data Science LA Conference on 22nd September. [Full program](https://wbds.la/conferences/3WBDSLAC/workshops.html#)
 
-5. Nethmi Wijesinghe presented “Anomaly Detection in Image Streams with Explainable AI” at the 3rd Women in Bioinformatics & Data Science LA Conference on 22nd September. [Full program](https://wbds.la/conferences/3WBDSLAC/workshops.html#)
-
-![ 3rd Women in Bioinformatics & Data Science LA Conference](fig/3WBDS_LA.jpg){width=70% height=auto }
-
-
+![3rd Women in Bioinformatics & Data Science LA Conference](fig/3WBDS_LA.jpg){width="70%" height="auto"}

@@ -1,9 +1,25 @@
 ---
-title: "Outbreak Forecasting with ML"
-description: "Using regression to model COVID-19 trends"
-image: "images/acronym.jpg"
-date: 2024-10-01
+title: "CRAN Task View: Anomaly Detection with R"
+description: "This CRAN Task View provides a comprehensive list of R packages for anomaly detection."
+#image: "images/acronym.jpg"
+#date: 2024-10-01
 format: html
 ---
 
-outbreak project.
+## Project Overview
+
+This [CRAN](https://cran.r-project.org/) Task View offers a curated and comprehensive overview of R packages available for anomaly detection—an essential area in data science concerned with identifying rare, unusual, or suspicious patterns in data. Anomalies, also referred to as outliers, novelties, or aberrations depending on the domain, may arise in various data types including univariate, multivariate, spatial, temporal, and functional datasets.
+
+Given the wide-ranging definitions and detection techniques, this Task View organizes packages by methodological categories and data applicability to guide users in selecting suitable tools. Key detection paradigms include density-based, distance-based, clustering-based, angle-based, and tree-based approaches, among others. Packages are chosen based on their methodological robustness, active maintenance, and relevance to anomaly detection, while outdated or minimally functional tools are excluded.
+
+This resource is especially valuable for practitioners and researchers navigating high-dimensional or heterogeneous data, with sections dedicated to both traditional and cutting-edge methods, including Isolation Forests, LOF, Mahalanobis distance, and ensemble-based detection strategies. It also highlights packages offering explainable AI capabilities and support for robust modeling under uncertainty.
+
+As the landscape of anomaly detection evolves, this Task View will continue to be updated. Contributions and suggestions for improving the coverage and usability of the Task View are warmly welcomed.
+
+## You can view the full repository on GitHub:
+
+👉 [CTV-AnomalyDetection](https://github.com/pridiltal/ctv-AnomalyDetection)
+
+### Magazine Articles
+
+1.  Talagala, P.D. (2023). Unveiling the Unusual:A Task View for Anomaly Detection in R. University of Moratuwa, Bolgoda Plains Research Magazine. (Vol. 03, Issue 01) [DOI: https://doi.org/10.31705/BPRM.v3(1).2023.14](https://dl.lib.uom.lk/items/3d3021a2-dced-43c7-a2f3-07548c3a1a1c)
