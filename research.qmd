@@ -17,7 +17,6 @@ toc: false
 
 [View Project](research/project1.qmd)
 :::
-
 ::: g-col-4
 ![](images/research/research-CTV.png){height="300px" style="float:left; margin-right:1em;"}
 
@@ -41,5 +40,18 @@ toc: false
 **Keywords**: Anomaly Detection, COVID-19, Distance Education\
 
 [View Project](research/project3.qmd)
+:::
+
+::: g-col-4
+![](images/research/research-meta.jpg){height="300px" style="float:left; margin-right:1em;"}
+
+### Anomaly Detection in Time Series Data Using Generative Modeling
+
+
+**Description**: A Meta-Learning-Based Ensemble Framework for Anomaly Detection in Tabular Time-Series Data.\
+
+**Keywords**: Anomaly Detection\
+
+[View Project](research/project4.qmd)
 :::
 ::::::
