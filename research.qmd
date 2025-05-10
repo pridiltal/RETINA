@@ -8,11 +8,12 @@ toc: false
 ::: {.grid}
 
 ::: {.g-col-4}
-![](images/acronym.jpg){width=400px style="float:left; margin-right:1em;"}
+![](images/research/research-deforestation.png){width=300px style="float:left; margin-right:1em;"}
 
-### Project One  
-**Description**: A brief summary of Project One.  
-**Tech Stack**: R, Quarto, Shiny  
+### Anomaly Detection in Image Streams With Explainable AI
+**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding.
+**Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
+
 [View Project](research/project1.qmd)
 :::
 
