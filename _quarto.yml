@@ -18,6 +18,9 @@ website:
         text: Research
       - href: awards.qmd
         text: Awards
+    right:
+      - href: https://prital.netlify.app/
+        text: PI's Profile
 
 format:
   html:
