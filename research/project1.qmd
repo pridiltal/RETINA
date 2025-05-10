@@ -54,3 +54,8 @@ This project conducted under my supervision achieved an impressive array of acco
 ![ University of Moratuwa Research Week 2022](fig/RW2022.png){width=100% height=auto }
 
 
+5. Nethmi Wijesinghe presented “Anomaly Detection in Image Streams with Explainable AI” at the 3rd Women in Bioinformatics & Data Science LA Conference on 22nd September. [Full program](https://wbds.la/conferences/3WBDSLAC/workshops.html#)
+
+![ 3rd Women in Bioinformatics & Data Science LA Conference](fig/3WBDS_LA.jpg){width=70% height=auto }
+
+

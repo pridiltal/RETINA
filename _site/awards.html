@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2024-10-01">
-<meta name="description" content="Using regression to model COVID-19 trends">
 
-<title>Outbreak Forecasting with ML – RETINA Lab</title>
+<title>awards – RETINA Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -25,23 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="..//images/avatar-nobackground.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href=".//images/avatar-nobackground.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,14 +69,12 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Outbreak Forecasting with ML – RETINA Lab">
-<meta property="og:description" content="Using regression to model COVID-19 trends">
-<meta property="og:image" content="images/acronym.jpg">
+<link rel="stylesheet" href="styles.css">
+<meta property="og:title" content="RETINA Lab">
+<meta property="og:image" content="/images/cover.png">
 <meta property="og:site_name" content="RETINA Lab">
-<meta name="twitter:title" content="Outbreak Forecasting with ML – RETINA Lab">
-<meta name="twitter:description" content="Using regression to model COVID-19 trends">
-<meta name="twitter:image" content="images/acronym.jpg">
+<meta name="twitter:title" content="RETINA Lab">
+<meta name="twitter:image" content="/images/cover.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -89,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">RETINA Lab</span>
     </a>
   </div>
@@ -100,15 +96,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
+    <a class="nav-link" href="./about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research.html"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../awards.html"> 
+    <a class="nav-link active" href="./awards.html" aria-current="page"> 
 <span class="menu-text">Awards</span></a>
   </li>  
 </ul>
@@ -119,46 +115,35 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Outbreak Forecasting with ML</h1>
+
+
+
+<ol type="1">
+<li>Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the extended abstract titled “Anomaly Detection in Image Streams Using Explainable AI.” Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., &amp; Talagala, P. D.</li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/awards/P1IASSL3.JPG" style="width:30.0%" class="figure-img"></p>
+<figcaption>Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)</figcaption>
+</figure>
 </div>
-
-<div>
-  <div class="description">
-    Using regression to model COVID-19 trends
-  </div>
+<ol start="2" type="1">
+<li><p>Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category “Degree C1: Science, Technology, Engineering, and Mathematics” for the thesis titled “Anomaly Detection in Image Streams with Explainable AI.” Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., &amp; Talagala, P. D.</p></li>
+<li><p>First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium 2022, organized by the Data and Advanced Analytics Division of the John Keells Group. Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., &amp; Talagala, P. D (Project Supervisor).</p></li>
+</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/awards/octave.jpg" style="width:60.0%" class="figure-img"></p>
+<figcaption>Thesis Competition at the OCTAVE Advanced Analysis Symposium</figcaption>
+</figure>
 </div>
-
-
-<div class="quarto-title-meta">
-
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">October 1, 2024</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p>outbreak project.</p>
 
 
 
