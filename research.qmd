@@ -1,28 +1,17 @@
 ---
-# title: "Projects"
+#title: "Projects"
 format: html
 page-layout: full
 toc: false
+css: styles.css  # (Add this if you want to use the CSS provided below)
 ---
 
-::::::: grid
-::: g-col-4
-![](images/research/research-deforestation.png){height="300px" style="float:left; margin-right:1em;"}
+<div class="project-container">
 
-### Anomaly Detection in Image Streams With Explainable AI
+::: {.project-card}
+![](images/research/research-CTV.jpg){class="project-image"}
 
-**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding.  
-
-**Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
-
-[View Project](research/project1.qmd)
-:::
-
-::: g-col-4
-![](images/research/research-CTV.png){height="300px" style="float:left; margin-right:1em;"}
-
-### CRAN Task View: Anomaly Detection with R
-
+### CRAN Task View: Anomaly Detection with R  
 **Description**: This CRAN Task View provides a comprehensive list of R packages for anomaly detection.
 
 **Keywords**: Anomaly Detection, R Language
@@ -30,29 +19,38 @@ toc: false
 [View Project](research/project2.qmd)
 :::
 
-::: g-col-4
-![](images/research/research-meta.jpg){height="300px" style="float:left; margin-right:1em;"}
 
-### Anomaly Detection in Time Series Data Using Generative Modeling
+::: {.project-card}
+![](images/research/research-deforestation.jpg){class="project-image"}
 
-**Description**: A Meta-Learning-Based Ensemble Framework for Anomaly Detection in Tabular Time-Series Data.\
+### Anomaly Detection in Image Streams With Explainable AI 
+**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding.
 
-**Keywords**: Anomaly Detection\
+**Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
+
+[View Project](research/project1.qmd)
+:::
+
+::: {.project-card}
+![](images/research/research-meta.jpg){class="project-image"}
+
+### Anomaly Detection in Time Series Data Using Generative Modeling  
+**Description**: A Meta-Learning-Based Ensemble Framework for Anomaly Detection in Tabular Time-Series Data.
+
+**Keywords**: Anomaly Detection
 
 [View Project](research/project3.qmd)
 :::
 
-::: g-col-4
-![](images/research/research-covid.png){height="300px" style="float:left; margin-right:1em;"}
+::: {.project-card}
+![](images/research/research-covid.png){class="project-image"}
 
-### COVID-19 and Online Learning Tools
+### COVID-19 and Online Learning Tools  
+**Description**: Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic.
 
-**Description**: Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic.\
-
-**Keywords**: Anomaly Detection, COVID-19, Distance Education\
+**Keywords**: Anomaly Detection, COVID-19, Distance Education
 
 [View Project](research/project4.qmd)
 :::
 
-
-:::::::
+</div>
