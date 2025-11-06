@@ -21,10 +21,10 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 
 ::: {.project-card}
-![](images/research/research-deforestation.jpg){class="project-image"}
+![](images/research/research-deforestation.png){class="project-image"}
 
 ### Anomaly Detection in Image Streams With Explainable AI 
-**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams using computer vision, time series forecasting, and data-driven thresholding.
+**Description**: An explainable, semi-supervised framework for detecting anomalies in image streams.
 
 **Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
 
