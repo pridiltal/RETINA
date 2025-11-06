@@ -21,7 +21,7 @@ format: html
 <iframe 
     width="75%" 
     height="350" 
-    src="https://www.youtube.com/watch?v=EI6-Cxxf4jk" 
+    src="https://www.youtube.com/embed/EI6-Cxxf4jk" 
     title="YouTube video player" 
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -58,11 +58,6 @@ Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
 [🔗 Download PDF](https://dl.lib.uom.lk/server/api/core/bitstreams/22560cbf-74a1-44b2-ba4b-87f63e68ba14/content)
 
-<iframe 
-  src="https://dl.lib.uom.lk/server/api/core/bitstreams/22560cbf-74a1-44b2-ba4b-87f63e68ba14/content" 
-  width="100%" 
-  height="600px">
-</iframe>
 
 ## Awards
 

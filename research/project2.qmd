@@ -18,14 +18,22 @@ This resource is especially valuable for practitioners and researchers navigatin
 
 As the landscape of anomaly detection evolves, this Task View will continue to be updated. Contributions and suggestions for improving the coverage and usability of the Task View are warmly welcomed.
 
-For the full list of packages and details, visit the official CRAN Task View page:
+
+You can view the full Task View here: 
 [Anomaly Detection – CRAN Task View](https://cran.r-project.org/web/views/AnomalyDetection.html)
+
+
+<!-- Fallback iframe (may not work if blocked) -->
+<iframe src="https://cran.r-project.org/web/views/AnomalyDetection.html"
+        width="100%" height="600px" style="border:1px solid #ccc;">
+  Your browser does not support iframes or the page cannot be displayed.
+</iframe>
 
 ### Maintainers:	
 
 The CRAN Task View on Anomaly Detection is actively curated and maintained by the following contributors:
 
-[Priyanga Dilini Talagala – University of Moratuwa, Sri Lanka - RETINA project PI](https://prital.netlify.app/)
+[Priyanga Dilini Talagala – University of Moratuwa, Sri Lanka - RETINA project PI, CTV main maintainer](https://prital.netlify.app/)
 
 [Rob J. Hyndman – Monash University, Australia](https://robjhyndman.com/)
 
