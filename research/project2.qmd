@@ -10,7 +10,7 @@ format: html
 
 ![](fig/research-CTV.jpg){width=400px}
 
-This [CRAN](https://cran.r-project.org/web/views/AnomalyDetection.html) Task View offers a curated and comprehensive overview of R packages available for anomaly detection—an essential area in data science concerned with identifying rare, unusual, or suspicious patterns in data. Anomalies, also referred to as outliers, novelties, or aberrations depending on the domain, may arise in various data types including univariate, multivariate, spatial, temporal, and functional datasets.
+This [CRAN](https://cran.r-project.org/web/views/AnomalyDetection.html) Task View offers a curated and comprehensive overview of R packages available for anomaly detection, an essential area in data science concerned with identifying rare, unusual, or suspicious patterns in data. Anomalies, also referred to as outliers, novelties, or aberrations depending on the domain, may arise in various data types including univariate, multivariate, spatial, temporal, and functional datasets.
 
 Given the wide-ranging definitions and detection techniques, this Task View organizes packages by methodological categories and data applicability to guide users in selecting suitable tools. Key detection paradigms include density-based, distance-based, clustering-based, angle-based, and tree-based approaches, among others. Packages are chosen based on their methodological robustness, active maintenance, and relevance to anomaly detection, while outdated or minimally functional tools are excluded.
 

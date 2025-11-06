@@ -8,13 +8,35 @@ format: html
 
 ## Project Overview
 
+<iframe 
+    width="75%" 
+    height="350" 
+    src="https://www.youtube.com/embed/L9gqWwF0kCk" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+<iframe 
+    width="75%" 
+    height="350" 
+    src="https://www.youtube.com/watch?v=EI6-Cxxf4jk" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+
 This study proposes a novel and explainable framework for the early detection of anomalies in image streams, aimed at addressing critical challenges in fields such as environmental monitoring, disaster response, and public safety. Unlike traditional supervised learning methods that rely heavily on large, labeled datasets and struggle to detect previously unseen anomalies, the proposed approach adopts a semi-supervised learning paradigm. It models only the typical behavior and detects anomalies as deviations from this learned norm using a combination of computer vision techniques, univariate time series forecasting, and a data-driven thresholding method grounded in Extreme Value Theory. To improve model transparency and interpretability, explainable AI techniques are integrated into the deep learning module, offering insights into the contribution of extracted features to anomaly detection decisions.
 
 The framework's effectiveness and generalizability were tested across multiple real-world scenarios. These included monitoring progressive deforestation through satellite imagery, detecting changes following an undersea volcanic eruption, and analyzing flood impact caused by torrential rainfall. The results demonstrate that the proposed framework can successfully identify anomalies in diverse contexts, even with limited labeled data. Furthermore, the study highlights that while deep learning models perform well with larger datasets, conventional machine learning approaches are more effective with smaller datasets. By combining anomaly detection with interpretability, the framework not only improves detection accuracy but also builds user trust and supports informed decision-making across different application domains.
 
+
 ## Project Team
 
-Dr. Priyanga Dilini Talagala (Project supervisor), Department of Computational Mathematics, University of Moratuwa
+Dr. Priyanga Dilini Talagala, Department of Computational Mathematics, University of Moratuwa (Principle investigator of the project. Conceptualizing the overall project, acquiring funding, and project coordination and supervision)
 
 Ms. Nethmi Wijesinghe, Faculty of Information Technology, University of Moratuwa
 
@@ -33,6 +55,14 @@ Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 ### Magazine Articles
 
 2.  Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. (2023). Anomaly detection in image streams with explainable AI. University of Moratuwa, Bolgoda Plains Research Magazine. [DOI: https://doi.org/10.31705/BPRM.v3(2).2023.5](https://dl.lib.uom.lk/items/3bc83041-061b-49c2-a7e0-a52df01944c9)
+
+[🔗 Download PDF](https://dl.lib.uom.lk/server/api/core/bitstreams/22560cbf-74a1-44b2-ba4b-87f63e68ba14/content)
+
+<iframe 
+  src="https://dl.lib.uom.lk/server/api/core/bitstreams/22560cbf-74a1-44b2-ba4b-87f63e68ba14/content" 
+  width="100%" 
+  height="600px">
+</iframe>
 
 ## Awards
 
