@@ -53,4 +53,16 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project4.qmd)
 :::
 
+::: {.project-card}
+![](images/research/Duplicate.jpg){class="project-image"}
+
+### Duplicate Image Detection in Large-Scale Image Databases  
+**Description**: An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database
+
+**Keywords**: Duplicate Detection, Coarse-to-Fine, Hash-method, CNN, Transformers
+
+[View Project](research/project5.qmd)
+
+:::
+
 </div>

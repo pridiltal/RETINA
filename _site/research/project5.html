@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database">
 
-<title>research – RETINA Lab</title>
+<title>Duplicate Image Detection in Large-Scale Image Databases – RETINA Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +24,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//images/avatar-nobackground.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="..//images/avatar-nobackground.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,11 +71,13 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="RETINA Lab">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Duplicate Image Detection in Large-Scale Image Databases – RETINA Lab">
+<meta property="og:description" content="An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database">
 <meta property="og:image" content="/images/cover.png">
 <meta property="og:site_name" content="RETINA Lab">
-<meta name="twitter:title" content="RETINA Lab">
+<meta name="twitter:title" content="Duplicate Image Detection in Large-Scale Image Databases – RETINA Lab">
+<meta name="twitter:description" content="An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database">
 <meta name="twitter:image" content="/images/cover.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
@@ -86,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">RETINA Lab</span>
     </a>
   </div>
@@ -97,15 +100,15 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./awards.html"> 
+    <a class="nav-link" href="../awards.html"> 
 <span class="menu-text">Awards</span></a>
   </li>  
 </ul>
@@ -122,65 +125,97 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
+  <li><a href="#project-team" id="toc-project-team" class="nav-link" data-scroll-target="#project-team">Project Team</a></li>
+  <li><a href="#outputs" id="toc-outputs" class="nav-link" data-scroll-target="#outputs">Outputs</a>
+  <ul class="collapse">
+  <li><a href="#publicaitons" id="toc-publicaitons" class="nav-link" data-scroll-target="#publicaitons">Publicaitons</a></li>
+  <li><a href="#presentations" id="toc-presentations" class="nav-link" data-scroll-target="#presentations">Presentations</a></li>
+  </ul></li>
+  <li><a href="#awards" id="toc-awards" class="nav-link" data-scroll-target="#awards">Awards</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Duplicate Image Detection in Large-Scale Image Databases</h1>
+</div>
+
+<div>
+  <div class="description">
+    An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database
+  </div>
+</div>
 
 
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
 
 
-<div class="project-container">
-<div class="project-card">
-<p><img src="images/research/research-CTV.jpg" class="project-image img-fluid"></p>
-<section id="cran-task-view-anomaly-detection-with-r" class="level3">
-<h3 class="anchored" data-anchor-id="cran-task-view-anomaly-detection-with-r">CRAN Task View: Anomaly Detection with R</h3>
-<p><strong>Description</strong>: This CRAN Task View provides a comprehensive list of R packages for anomaly detection.</p>
-<p><strong>Keywords</strong>: Anomaly Detection, R Language</p>
-<p><a href="./research/project2.html">View Project</a></p>
+</header>
+
+
+<section id="project-overview" class="level2">
+<h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
+<p>With the proliferation of social media, the public has increasingly turned to use images to communicate and share information. However, this trend has also led to an increase in the number of ways that images can be duplicated, either maliciously or innocently. The detection of duplicate images has a wide range of applications, including addressing issues of copyright infringement, combating misinformation, and addressing ethical concerns. Through this study, we aim to propose an efficient and accurate duplicate image detection framework that can be applied to various image databases with varying data challenges. The proposed solution is a comprehensive coarse-to-fine module where the coarse module focuses on limiting the image dataset by selecting candidate images and the fine-module focuses on deep diving into local similarity. A Feature Contribution Explainability submodule provides visualizations of the areas contributing to the duplicate detection of the images. Through the integration of these modules, the proposed system aims to achieve efficient and effective filtering of large image databases. By combining high-level and low-level feature extraction, contextual information embedding, and attention mechanisms, the system offers a comprehensive approach to candidate image identification and ranking images according to the similarity. Experimental results demonstrate the system’s potential in accurately selecting candidate images with high probability for duplicate detection and provide insights into the contributed areas within the images.</p>
 </section>
-</div>
-<div class="project-card">
-<p><img src="images/research/research-deforestation.png" class="project-image img-fluid"></p>
-<section id="anomaly-detection-in-image-streams-with-explainable-ai" class="level3">
-<h3 class="anchored" data-anchor-id="anomaly-detection-in-image-streams-with-explainable-ai">Anomaly Detection in Image Streams With Explainable AI</h3>
-<p><strong>Description</strong>: An explainable, semi-supervised framework for detecting anomalies in image streams.</p>
-<p><strong>Keywords</strong>: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection</p>
-<p><a href="./research/project1.html">View Project</a></p>
+<section id="project-team" class="level2">
+<h2 class="anchored" data-anchor-id="project-team">Project Team</h2>
+<p>Dr.&nbsp;Priyanga Dilini Talagala, Department of Computational Mathematics, University of Moratuwa, Sri Lanka</p>
+<p>Dilumika Chandrasiri, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka</p>
+<p>Dinithi Sandarekha, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka</p>
+<p>Chandeepa Pathirana, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka</p>
 </section>
-</div>
-<div class="project-card">
-<p><img src="images/research/research-meta.jpg" class="project-image img-fluid"></p>
-<section id="anomaly-detection-in-time-series-data-using-generative-modeling" class="level3">
-<h3 class="anchored" data-anchor-id="anomaly-detection-in-time-series-data-using-generative-modeling">Anomaly Detection in Time Series Data Using Generative Modeling</h3>
-<p><strong>Description</strong>: A Meta-Learning-Based Ensemble Framework for Anomaly Detection in Tabular Time-Series Data.</p>
-<p><strong>Keywords</strong>: Anomaly Detection</p>
-<p><a href="./research/project3.html">View Project</a></p>
+<section id="outputs" class="level2">
+<h2 class="anchored" data-anchor-id="outputs">Outputs</h2>
+<section id="publicaitons" class="level3">
+<h3 class="anchored" data-anchor-id="publicaitons">Publicaitons</h3>
+<ol type="1">
+<li>M. D. N. Chandrasiri and P. D. Talagala, “Cross-ViT: Cross-attention Vision Transformer for Image Duplicate Detection,” 2023 8th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2023, pp.&nbsp;1-6, doi: <a href="https://ieeexplore.ieee.org/abstract/document/10382916">10.1109/ICITR61062.2023.10382916.</a></li>
+</ol>
 </section>
-</div>
-<div class="project-card">
-<p><img src="images/research/research-covid.png" class="project-image img-fluid"></p>
-<section id="covid-19-and-online-learning-tools" class="level3">
-<h3 class="anchored" data-anchor-id="covid-19-and-online-learning-tools">COVID-19 and Online Learning Tools</h3>
-<p><strong>Description</strong>: Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic.</p>
-<p><strong>Keywords</strong>: Anomaly Detection, COVID-19, Distance Education</p>
-<p><a href="./research/project4.html">View Project</a></p>
+<section id="presentations" class="level3">
+<h3 class="anchored" data-anchor-id="presentations">Presentations</h3>
+<p><strong>Cross-ViT: Cross-attention Vision Transformer for Image Duplicate Detection</strong></p>
+<p>Date: December 7th to 8th, 2023</p>
+<p>Event: <a href="https://icitr.uom.lk/">8th International Conference on Information Technology Research (ICITR)</a></p>
+<p>Location: University of Moratuwa, Sri Lanka</p>
 </section>
-</div>
-<div class="project-card">
-<p><img src="images/research/Duplicate.jpg" class="project-image img-fluid"></p>
-<section id="duplicate-image-detection-in-large-scale-image-databases" class="level3">
-<h3 class="anchored" data-anchor-id="duplicate-image-detection-in-large-scale-image-databases">Duplicate Image Detection in Large-Scale Image Databases</h3>
-<p><strong>Description</strong>: An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database</p>
-<p><strong>Keywords</strong>: Duplicate Detection, Coarse-to-Fine, Hash-method, CNN, Transformers</p>
-<p><a href="./research/project5.html">View Project</a></p>
 </section>
+<section id="awards" class="level2">
+<h2 class="anchored" data-anchor-id="awards">Awards</h2>
+<p>Best Research Award 2023: Merit award of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the research project titled “Duplicate detection in large-scale image databases.”</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="fig/Duplicate1.jpg" style="width:50.0%" class="figure-img"></p>
+<figcaption>IASSL Best Research Award 2023</figcaption>
+</figure>
 </div>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="fig/Duplicate2.jpg" style="width:50.0%" class="figure-img"></p>
+<figcaption>IASSL Best Research Award 2023</figcaption>
+</figure>
 </div>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
