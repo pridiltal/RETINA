@@ -6,12 +6,12 @@ toc: false
 css: styles.css  # (Add this if you want to use the CSS provided below)
 ---
 
-<div class="project-container">
+:::::::: project-container
+::: project-card
+![](images/research/research-CTV.jpg){.project-image}
 
-::: {.project-card}
-![](images/research/research-CTV.jpg){class="project-image"}
+### CRAN Task View: Anomaly Detection with R
 
-### CRAN Task View: Anomaly Detection with R  
 **Description**: This CRAN Task View provides a comprehensive list of R packages for anomaly detection.
 
 **Keywords**: Anomaly Detection, R Language
@@ -19,11 +19,11 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project2.qmd)
 :::
 
+::: project-card
+![](images/research/research-deforestation.png){.project-image}
 
-::: {.project-card}
-![](images/research/research-deforestation.png){class="project-image"}
+### Anomaly Detection in Image Streams With Explainable AI
 
-### Anomaly Detection in Image Streams With Explainable AI 
 **Description**: An explainable, semi-supervised framework for detecting anomalies in image streams.
 
 **Keywords**: Anomaly Detection, Explainable AI, Environmental Monitoring, Disaster Detection
@@ -31,10 +31,11 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project1.qmd)
 :::
 
-::: {.project-card}
-![](images/research/research-meta.jpg){class="project-image"}
+::: project-card
+![](images/research/research-meta.jpg){.project-image}
 
-### Anomaly Detection in Time Series Data Using Generative Modeling  
+### Anomaly Detection in Time Series Data Using Generative Modeling
+
 **Description**: A Meta-Learning-Based Ensemble Framework for Anomaly Detection in Tabular Time-Series Data.
 
 **Keywords**: Anomaly Detection
@@ -42,10 +43,11 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project3.qmd)
 :::
 
-::: {.project-card}
-![](images/research/research-covid.png){class="project-image"}
+::: project-card
+![](images/research/research-covid.png){.project-image}
 
-### COVID-19 and Online Learning Tools  
+### COVID-19 and Online Learning Tools
+
 **Description**: Analyzing Web Search Behavior for Distance Learning Solutions During and Post the COVID-19 Pandemic.
 
 **Keywords**: Anomaly Detection, COVID-19, Distance Education
@@ -53,16 +55,15 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project4.qmd)
 :::
 
-::: {.project-card}
-![](images/research/Duplicate.jpg){class="project-image"}
+::: project-card
+![](images/research/Duplicate.jpg){.project-image}
 
-### Duplicate Image Detection in Large-Scale Image Databases  
-**Description**: An efficient and explainable coarse-to-fine framework for detecting and visualizing duplicate images across large and diverse image database
+### Duplicate Image Detection in Large-Scale Image Databases
+
+**Description**: Framework for detecting and visualizing duplicate images across large and diverse image database.
 
 **Keywords**: Duplicate Detection, Coarse-to-Fine, Hash-method, CNN, Transformers
 
 [View Project](research/project5.qmd)
-
 :::
-
-</div>
+::::::::
