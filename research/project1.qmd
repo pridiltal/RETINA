@@ -8,31 +8,17 @@ format: html
 
 ## Project Overview
 
-<iframe 
-    width="75%" 
-    height="350" 
-    src="https://www.youtube.com/embed/L9gqWwF0kCk" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
+<iframe width="75%" height="350" src="https://www.youtube.com/embed/L9gqWwF0kCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+
 </iframe>
 
-<iframe 
-    width="75%" 
-    height="350" 
-    src="https://www.youtube.com/embed/EI6-Cxxf4jk" 
-    title="YouTube video player" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+<iframe width="75%" height="350" src="https://www.youtube.com/embed/EI6-Cxxf4jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
+</iframe>
 
 This study proposes a novel and explainable framework for the early detection of anomalies in image streams, aimed at addressing critical challenges in fields such as environmental monitoring, disaster response, and public safety. Unlike traditional supervised learning methods that rely heavily on large, labeled datasets and struggle to detect previously unseen anomalies, the proposed approach adopts a semi-supervised learning paradigm. It models only the typical behavior and detects anomalies as deviations from this learned norm using a combination of computer vision techniques, univariate time series forecasting, and a data-driven thresholding method grounded in Extreme Value Theory. To improve model transparency and interpretability, explainable AI techniques are integrated into the deep learning module, offering insights into the contribution of extracted features to anomaly detection decisions.
 
 The framework's effectiveness and generalizability were tested across multiple real-world scenarios. These included monitoring progressive deforestation through satellite imagery, detecting changes following an undersea volcanic eruption, and analyzing flood impact caused by torrential rainfall. The results demonstrate that the proposed framework can successfully identify anomalies in diverse contexts, even with limited labeled data. Furthermore, the study highlights that while deep learning models perform well with larger datasets, conventional machine learning approaches are more effective with smaller datasets. By combining anomaly detection with interpretability, the framework not only improves detection accuracy but also builds user trust and supports informed decision-making across different application domains.
-
 
 ## Project Team
 
@@ -44,7 +30,10 @@ Ms. Nethmee Sellahewa, Faculty of Information Technology, University of Moratuwa
 
 Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
-![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](fig/P1IASSL3.JPG){width="50%" height="auto"}
+<p align="center">
+  <img src="fig/P1IASSL3.JPG" width="50%">
+</p>
+<p align="center"><strong>Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)</strong></p>
 
 ## Outputs
 
@@ -58,7 +47,6 @@ Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
 [🔗 Download PDF](https://dl.lib.uom.lk/server/api/core/bitstreams/22560cbf-74a1-44b2-ba4b-87f63e68ba14/content)
 
-
 ## Awards
 
 This project conducted under my supervision achieved an impressive array of accomplishments both nationally and internationally:
@@ -71,8 +59,15 @@ This project conducted under my supervision achieved an impressive array of acco
 
 4.  The thesis was selected for a poster presentation at the University of Moratuwa Research Week in November 2022.
 
-![University of Moratuwa Research Week 2022](fig/RW2022.png){width="100%" height="auto"}
+
+<p align="center">
+  <img src="fig/RW2022.png" width="100%">
+</p>
+<p align="center"><strong>University of Moratuwa Research Week 2022</strong></p>
 
 5.  Nethmi Wijesinghe presented “Anomaly Detection in Image Streams with Explainable AI” at the 3rd Women in Bioinformatics & Data Science LA Conference on 22nd September. [Full program](https://wbds.la/conferences/3WBDSLAC/workshops.html#)
 
-![3rd Women in Bioinformatics & Data Science LA Conference](fig/3WBDS_LA.jpg){width="70%" height="auto"}
+<p align="center">
+  <img src="fig/3WBDS_LA.jpg" width="70%">
+</p>
+<p align="center"><strong>3rd Women in Bioinformatics & Data Science LA Conference</strong></p>

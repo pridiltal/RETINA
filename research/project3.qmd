@@ -8,7 +8,6 @@ format: html
 
 ## Project Overview
 
-
 Detecting anomalies in tabular time-series data is challenging because each dataset can have different patterns and behaviors. **A single model often struggles to perform well across different types of data**. To address this, this study proposes a flexible ensemble-based framework that combines the strengths of several models to improve anomaly detection.
 
 Our approach uses meta-learning to guide the selection of the best combination of models for a given dataset. We extract meta-features—summaries of the dataset’s structure and characteristics—to help the system decide which models to use and how much to rely on each one.
@@ -19,7 +18,12 @@ To combine the outputs of the different models, we use a method called stacking,
 
 Overall, this project aims to develop a robust and adaptable system for detecting anomalies in time-series data across diverse domains, enhancing accuracy and minimizing manual tuning. Much like a jackknife that can handle various functions with a single design, the proposed model aspires to provide a general-purpose framework for anomaly detection across multiple applications.
 
-![](fig/research-meta.jpg){width=400px}
+
+<p align="center">
+  <img src="fig/research-meta.jpg" width="400px">
+</p>
+
+
 
 ## Project Team
 
@@ -55,4 +59,9 @@ Location: University of Moratuwa, Sri Lanka
 
 1.  Best Paper Award, Data Science and Data Driven Applications Track, 9th International Conference on Information Technology Research (ICITR) 2024, Faculty of Information Technology, University of Moratuwa
 
-![Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024](fig/ICITR24.png){width="100%" height="auto"}
+
+<p align="center">
+  <img src="fig/ICITR24.png" width="100%">
+</p>
+<p align="center"><strong>Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024</strong></p>
+

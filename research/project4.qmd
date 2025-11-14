@@ -8,7 +8,9 @@ format: html
 
 ## Project Overview
 
-![](fig/research-covid.png){width="500px"}
+<p align="center">
+  <img src="fig/research-covid.png" width="500px">
+</p>
 
 This study explores the use of Google Trends as a proxy to measure public interest in distance education solutions during the COVID-19 pandemic. It presents the first detailed, global-level analysis of web search behavior related to distance learning, combining both quantitative and qualitative perspectives. Unlike prior research that was either limited in scope or narrowly focused, this study examined a wide array of search terms to capture evolving global attention toward digital education tools.
 
@@ -52,7 +54,11 @@ Event: [6th International Conference on Advanced Research Methods and Analytics,
 
 [Slides](https://pridiltal.github.io/CARMA2024/index.pdf)
 
-![At the 6th International Conference on Advanced Research Methods and Analytics, Valencia, Spain](fig/CARMA24.png){width="90%" height="auto"}
+
+<p align="center">
+  <img src="fig/CARMA24.png" width="90%">
+</p>
+<p align="center"><strong>At the 6th International Conference on Advanced Research Methods and Analytics, Valencia, Spain</strong></p>
 
 3.  Exploring Dynamics and Trends in Distance Education: Insights from Global Web Search Queries in the Post-Pandemic Era
 
@@ -62,4 +68,8 @@ Event: [8th International Conference on Education and Distance Learning, Paris, 
 
 [Slides](https://pridiltal.github.io/ICEDL2024/index.pdf)
 
-![At the 8th International Conference on Education and Distance Learning, Paris, France](fig/ICEDL24.jpg){width="50%" height="auto"}
+<p align="center">
+  <img src="fig/ICEDL24.jpg" width="50%">
+</p>
+<p align="center"><strong>At the 8th International Conference on Education and Distance Learning, Paris, France</strong></p>
+
