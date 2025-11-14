@@ -44,6 +44,18 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 :::
 
 ::: project-card
+![](images/research/flood.jpg){.project-image}
+
+### AI-Driven Flood Prediction and Early Warning System
+
+**Description**: Flood Prediction and Early Warning System using Geographical and Temporal Data Integration.
+
+**Keywords**:  Flood prediction,  spatio-temporal analysis, Data management automation, Threshold optimization
+
+[View Project](research/project6.qmd)
+:::
+
+::: project-card
 ![](images/research/research-covid.png){.project-image}
 
 ### COVID-19 and Online Learning Tools
@@ -67,16 +79,4 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project5.qmd)
 :::
 
-
-::: project-card
-![](images/research/flood.jpg){.project-image}
-
-### AI-Driven Flood Prediction and Early Warning System
-
-**Description**: Flood Prediction and Early Warning System using Geographical and Temporal Data Integration.
-
-**Keywords**:  Flood prediction,  spatio-temporal analysis, Data management automation, Threshold optimization
-
-[View Project](research/project6.qmd)
-:::
 ::::::::
