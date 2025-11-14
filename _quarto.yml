@@ -15,7 +15,7 @@ website:
       - href: about.qmd
         text: About
       - href: research.qmd
-        text: Research
+        text: Research Projects
       - href: awards.qmd
         text: Awards
     right:

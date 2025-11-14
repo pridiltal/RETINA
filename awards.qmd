@@ -7,18 +7,41 @@ toc: false
 
 1.  Best Research Award 2022: Winner of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the research project titled "Anomaly Detection in Image Streams Using Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D. [View Project](research/project1.qmd)
 
-![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](images/awards/P1IASSL3.JPG){width="30%" height="auto"}
+::: {#fig-award .center}
+![Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)](images/awards/P1IASSL3.JPG){width="30%"}
+
+Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)
+:::
+
 
 2.  Gold Award: Recipient of the Gold Award in the Thesis in 5 Minutes Competition (T5M Series 2/2022) in the category "Degree C1: Science, Technology, Engineering, and Mathematics" for the thesis titled "Anomaly Detection in Image Streams with Explainable AI." Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D. [View Project](research/project1.qmd)
 
-3.  First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium 2022, organized by the Data and Advanced Analytics Division of the John Keells Group. Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D (Project Supervisor). [View Project](research/project1.qmd)
+3.  First Place: Winner of the Thesis Competition at the OCTAVE Advanced Analysis Symposium 2022, organized by the Data and Advanced Analytics Division of the John Keells Group. Team Members: Wijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D (Project Supervisor). [View Project](research/project1.qmd).
 
-![Thesis Competition at the OCTAVE Advanced Analysis Symposium](images/awards/octave.jpg){width="60%" height="auto"}
+::: {#fig-award .center}
+![Thesis Competition at the OCTAVE Advanced Analysis Symposium](images/awards/octave.jpg){width="60%"}
+
+Thesis Competition at the OCTAVE Advanced Analysis Symposium
+:::
+
 
 4.  Best Paper Award, Data Science and Data Driven Applications Track, 9th International Conference on Information Technology Research (ICITR) 2024, Faculty of Information Technology, University of Moratuwa
 
-![Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024](images/awards/ICITR24.png){width="80%" height="auto"}
 
-5.  Best Research Award 2023: Merit award of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the research project titled "Duplicate detection in large-scale image databases." Team Members: Dilumika Chandrasiri, Dinithi Sandarekha,  Chandeepa Pathirana & Talagala, P. D. (Project Supervisor) [View Project](research/project5.qmd)
 
-![Best Research Awards – 2023, Institute of Applied Statistics, Sri Lanka (IASSL)](images/awards/duplicate.png){width="60%" height="auto"}
+::: {#fig-award .center}
+![Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024](images/awards/ICITR24.png){width="80%"}
+
+Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024
+:::
+
+
+5.  Best Research Award 2023: Merit award of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the research project titled "Duplicate detection in large-scale image databases." Team Members: Dilumika Chandrasiri, Dinithi Sandarekha, Chandeepa Pathirana & Talagala, P. D. (Project Supervisor) [View Project](research/project5.qmd)
+
+
+
+::: {#fig-award .center}
+![Best Research Awards – 2023, Institute of Applied Statistics, Sri Lanka (IASSL)](images/awards/duplicate.png){width="60%"}
+
+Figure 4: Best Research Awards – 2023, Institute of Applied Statistics, Sri Lanka (IASSL)
+:::
