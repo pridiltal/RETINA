@@ -95,14 +95,14 @@
     "href": "publications.html#working-papers-preprints",
     "title": "RETINA Lab",
     "section": "Working Papers & Preprints",
-    "text": "Working Papers & Preprints"
+    "text": "Working Papers & Preprints\n\nChandeepa Pathirana and P. D. Talagala, “DHybrid Feature-Hash Module For Image Duplicate Detection,” 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)\nM.H.D.B Gajakum, M. D. N. Chandrasiri and P. D. Talagala, “Dynamic Cluster Specific Ensembles with Explainable AI for Flood Hazard Prediction,” 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)\nWijesinghe, N., Perera, R., Sellahewa, N., & Talagala, P. D. (2024). Anomaly Detection in Image Streams Using Explainable AI (Working Paper). Faculty of Information Technology, University of Moratuwa, Sri Lanka."
   },
   {
     "objectID": "publications.html#software-tools",
     "href": "publications.html#software-tools",
     "title": "RETINA Lab",
     "section": "Software & Tools",
-    "text": "Software & Tools"
+    "text": "Software & Tools\n\n\n\nTalagala, P. D. (2024). clap: Detecting class overlapping regions in multidimensional data (R package version 0.1.0). https://doi.org/10.32614/CRAN.package.clap\nYou can install the clap R package in R using either CRAN or GitHub:\n# Install from CRAN\ninstall.packages(\"clap\")\n\n# Or install the development version from GitHub\n# install.packages(\"devtools\") # if not already installed\ndevtools::install_github(\"pridiltal/clap\")\nP. D. Talagala, R. J. Hyndman, and G. Romano, “AnomalyDetection: CRAN Task View: Anomaly Detection,” GitHub repository, version 2025-10-21, accessed Nov. 15, 2025. [Online]. Available: https://github.com/cran-task-views/AnomalyDetection/\nYou can install the AnomalyDetection CRAN Task View in R with a single line using the ctv R package:\n# Install the ctv package if you don't have it\ninstall.packages(\"ctv\")\n\n# Install the AnomalyDetection Task View\ninstall.views(\"AnomalyDetection\")"
   },
   {
     "objectID": "awards.html",

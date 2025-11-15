@@ -10,20 +10,15 @@ format: html
 
 ## Project Overview
 
-
-
 <p align="center">
-  <img src="fig/flood.jpg" width="500px">
+
+<img src="fig/flood.jpg" width="500px"/>
+
 </p>
-
-
 
 Floods represent one of the most significant natural hazards in Sri Lanka, with recurring monsoon induced events causing substantial loss of life and economic damage. Existing flood prediction systems face critical limitations including irregular data formats, static warning thresholds, and inadequate spatial integration, resulting in insufficient lead times and reduced prediction accuracy. This research addresses these challenges through the development of a comprehensive AI-driven flood prediction and early warning system specifically designed for Sri Lankan River basins.
 
-The study presents a multi-module framework that integrates advanced machine learning
-techniques with automated data management and spatial analysis. The approach combines
-geographical location-specific modeling using enhanced Long Short-Term Memory (LSTM)
-neural networks with spatio-temporal analysis that leverages upstream-downstream relationships within river networks. A novel automated database creation system employs Natural Language Processing and image processing techniques to standardize heterogeneous data sources from Disaster Management Center reports. Dynamic flood alert threshold calculation replaces static warning systems with adaptive, data-driven approaches that account for seasonal variations and antecedent conditions.
+The study presents a multi-module framework that integrates advanced machine learning techniques with automated data management and spatial analysis. The approach combines geographical location-specific modeling using enhanced Long Short-Term Memory (LSTM) neural networks with spatio-temporal analysis that leverages upstream-downstream relationships within river networks. A novel automated database creation system employs Natural Language Processing and image processing techniques to standardize heterogeneous data sources from Disaster Management Center reports. Dynamic flood alert threshold calculation replaces static warning systems with adaptive, data-driven approaches that account for seasonal variations and antecedent conditions.
 
 The framework further incorporates comprehensive geospatial analysis for flood hazard zoning through integration of satellite imagery and meteorological data, enhanced with explainable artificial intelligence for transparent decision-making. A temporal analysis component provides location-specific NDWI-based flood risk assessment enabling proactive management strategies.
 
@@ -32,10 +27,16 @@ Validation demonstrates substantial improvements in prediction accuracy over tra
 This research establishes a novel paradigm for AI-driven flood prediction in data-scarce regions, contributing significant advances to hydrological modeling, automated environmental data processing, and operational early warning systems. The comprehensive approach offers broad applicability to similar monsoon-affected regions worldwide while providing immediate operational benefits for Sri Lankan flood management authorities
 
 <p align="center">
-  <img src="fig/flood_framework.jpg" width="90%">
-</p>
-<p align="center"><strong>Proposed framework</strong></p>
 
+<img src="fig/flood_framework.jpg" width="90%"/>
+
+</p>
+
+<p align="center">
+
+<strong>Proposed framework</strong>
+
+</p>
 
 ## Project Team
 
@@ -45,7 +46,7 @@ Dilumika Chandrasiri, Department of Information Technology, University of Moratu
 
 W.A.R Samodya, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka
 
-Navindu Dahanayake,  Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka
+Navindu Dahanayake, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka
 
 Bumuth Gajakum, Faculty of Information Technology, University of Moratuwa, Moratuwa, Sri Lanka
 
@@ -54,14 +55,11 @@ Bumuth Gajakum, Faculty of Information Technology, University of Moratuwa, Morat
 ### Poster
 
 <p align="center">
-  <img src="fig/FYP_poster_flood.png" width="90%">
-</p>
 
+<img src="fig/FYP_poster_flood.png" width="90%"/>
+
+</p>
 
 ### Publicaitons
 
-1. M.H.D.B Gajakum,  M. D. N. Chandrasiri and P. D. Talagala, "Dynamic Cluster Specific Ensembles with Explainable AI for Flood Hazard Prediction," 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)
-
-
-
-
+1.  M.H.D.B Gajakum, M. D. N. Chandrasiri and P. D. Talagala, "Dynamic Cluster Specific Ensembles with Explainable AI for Flood Hazard Prediction," 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)
