@@ -20,6 +20,8 @@ website:
         text: Scholarly Work
       - href: awards.qmd
         text: Awards
+      - href: SDG.qmd
+        text: UN SDG Alignment
     right:
       - href: https://prital.netlify.app/
         text: PI's Profile

@@ -9,9 +9,10 @@ format: html
 ## Project Overview
 
 <p align="center">
-  <img src="fig/Duplicate.jpg" width="500px">
-</p>
 
+<img src="fig/Duplicate.jpg" width="500px"/>
+
+</p>
 
 With the proliferation of social media, the public has increasingly turned to use images to communicate and share information. However, this trend has also led to an increase in the number of ways that images can be duplicated, either maliciously or innocently. The detection of duplicate images has a wide range of applications, including addressing issues of copyright infringement, combating misinformation, and addressing ethical concerns. Through this study, we aim to propose an efficient and accurate duplicate image detection framework that can be applied to various image databases with varying data challenges. The proposed solution is a comprehensive coarse-to-fine module where the coarse module focuses on limiting the image dataset by selecting candidate images and the fine-module focuses on deep diving into local similarity. A Feature Contribution Explainability submodule provides visualizations of the areas contributing to the duplicate detection of the images. Through the integration of these modules, the proposed system aims to achieve efficient and effective filtering of large image databases. By combining high-level and low-level feature extraction, contextual information embedding, and attention mechanisms, the system offers a comprehensive approach to candidate image identification and ranking images according to the similarity. Experimental results demonstrate the system's potential in accurately selecting candidate images with high probability for duplicate detection and provide insights into the contributed areas within the images.
 
@@ -31,7 +32,7 @@ Chandeepa Pathirana, Faculty of Information Technology, University of Moratuwa, 
 
 1.  M. D. N. Chandrasiri and P. D. Talagala, "Cross-ViT: Cross-attention Vision Transformer for Image Duplicate Detection," 2023 8th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2023, pp. 1-6, doi: [10.1109/ICITR61062.2023.10382916.](https://ieeexplore.ieee.org/abstract/document/10382916)
 
-2. Chandeepa Pathirana and P. D. Talagala, "DHybrid Feature-Hash Module For Image Duplicate Detection," 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)
+2.  Chandeepa Pathirana and P. D. Talagala, "DHybrid Feature-Hash Module For Image Duplicate Detection," 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)
 
 ### Presentations
 
@@ -47,16 +48,26 @@ Location: University of Moratuwa, Sri Lanka
 
 Best Research Award 2023: Merit award of the undergraduate category at the competition organized by the Institute of Applied Statistics Sri Lanka (IASSL) for the research project titled "Duplicate detection in large-scale image databases."
 
+<p align="center">
+
+<img src="fig/Duplicate1.jpg" width="50%"/>
+
+</p>
 
 <p align="center">
-  <img src="fig/Duplicate1.jpg" width="50%">
-</p>
-<p align="center"><strong>IASSL Best Research Award 2023</strong></p>
 
+<strong>IASSL Best Research Award 2023</strong>
+
+</p>
 
 <p align="center">
-  <img src="fig/Duplicate2.jpg" width="50%">
+
+<img src="fig/Duplicate2.jpg" width="50%"/>
+
 </p>
-<p align="center"><strong>IASSL Best Research Award 2023</strong></p>
 
+<p align="center">
 
+<strong>IASSL Best Research Award 2023</strong>
+
+</p>

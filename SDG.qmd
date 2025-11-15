@@ -1,0 +1,27 @@
+---
+title: "UN SDG Alignment: How RETINA Research Drives Sustainable Development and Global Impact"
+format: html
+page-layout: full
+toc: true
+---
+
+At the RETINA Lab, we design data-driven, explainable, and ethically aligned AI frameworks that directly support global sustainability efforts. Our research addresses real-world challenges in disaster resilience, climate adaptation, public health, education access, digital trust, and responsible technological innovation. Aligned with the United Nations Sustainable Development Goals (SDGs), our work contributes to **SDG 3 (Good Health and Well-Being)** through early anomaly detection and health surveillance, **SDG 4 (Quality Education)** through open-source tools and AI capacity building, **SDG 9 (Industry, Innovation & Infrastructure)** by advancing trustworthy AI and scalable data systems, **SDG 13 (Climate Action)** with environmental monitoring and extreme weather analytics, **SDG 16 (Peace, Justice & Strong Institutions)** by enhancing transparency and trust in digital ecosystems, and **SDG 17 (Partnerships for the Goals)** through international collaborations and open scientific exchange. Through responsible data science, the RETINA Lab is committed to building safer, more inclusive, and more sustainable societies.
+
+<p align="center">
+  <img src="images/SDG.png" width="90%">
+</p>
+
+
+
+## SDG Impact Matrix  
+
+
+| Project | SDGs addressed | How it supports sustainability |
+|---------------|:-----------------------------:|-----------------|
+| [CRAN Task View: Anomaly Detection with R](research/project2.qmd)| <img src="images/sdg/SDG9.png" width="100"> \newline  <img src="images/sdg/SDG17.png" width="100"> | Makes advanced anomaly detection methods globally accessible through an open, peer-reviewed resource. This accelerates research, supports innovation ecosystems, and facilitates knowledge-sharing among scientists, industry, and institutions. |
+| [Explainable Anomaly Detection in Image Streams](research/project1.qmd)| <img src="images/sdg/SDG13.png" width="100"> \newline  <img src="images/sdg/SDG11.png" width="100"> | Detects early signs of deforestation, floods, volcanic impact, and other environmental anomalies using AI and satellite imagery. This enables timely intervention, reduces disaster impact on communities, and supports sustainable resource monitoring.|
+| [Meta-Learning for Time Series Anomaly Detection](research/project3.qmd)| <img src="images/sdg/SDG8.png" width="100"> \newline  <img src="images/sdg/SDG9.png" width="100"> |Provides an adaptable framework to detect anomalies in financial, industrial, and operational data, preventing economic losses, improving system reliability, and promoting technology-driven sustainable growth.|
+| [AI-Driven Flood Prediction & Early Warning System](research/project6.qmd)| <img src="images/sdg/SDG6.png" width="100"> \newline  <img src="images/sdg/SDG13.png" width="100"> |Creates location-specific, data-driven flood warning systems that protect water resources and reduce loss during monsoon floods. Adaptive thresholds and explainable models directly help climate-vulnerable regions prepare and respond.|
+| [COVID-19 & Online Learning Tools (Search Behavior Study)](research/project4.qmd)| <img src="images/sdg/SDG4.png" width="100"> \newline  <img src="images/sdg/SDG3.png" width="100"> |Analyzes global behavioral data to understand how communities switched to digital learning tools during the pandemic. Supports equitable access to education during crises and highlights psychological stress patterns linked to health outcomes.|
+| [Duplicate Image Detection System](research/project5.qmd)| <img src="images/sdg/SDG16.png" width="100">  |Detects image reuse, manipulation, and misinformation across large image collections. Directly supports digital integrity, ethical media use, copyright protection, and public trust in digital information systems|
+| [Class Overlap Detection & XAI R Package (`clap`)](research/project7.qmd)| <img src="images/sdg/SDG9.png" width="100"> \newline  <img src="images/sdg/SDG16.png" width="100"> |Identifies ambiguity in AI decision boundaries and provides transparency using explainable AI. Improves fairness, reduces model bias, and strengthens trust in data-driven decision systems used by government and industry.|

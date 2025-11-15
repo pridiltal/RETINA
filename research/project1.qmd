@@ -31,9 +31,16 @@ Ms. Nethmee Sellahewa, Faculty of Information Technology, University of Moratuwa
 Ms. Rashmi Perera, Faculty of Information Technology, University of Moratuwa
 
 <p align="center">
-  <img src="fig/P1IASSL3.JPG" width="50%">
+
+<img src="fig/P1IASSL3.JPG" width="50%"/>
+
 </p>
-<p align="center"><strong>Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)</strong></p>
+
+<p align="center">
+
+<strong>Best Research Awards – 2022, Institute of Applied Statistics, Sri Lanka (IASSL)</strong>
+
+</p>
 
 ## Outputs
 
@@ -59,15 +66,28 @@ This project conducted under my supervision achieved an impressive array of acco
 
 4.  The thesis was selected for a poster presentation at the University of Moratuwa Research Week in November 2022.
 
+<p align="center">
+
+<img src="fig/RW2022.png" width="100%"/>
+
+</p>
 
 <p align="center">
-  <img src="fig/RW2022.png" width="100%">
+
+<strong>University of Moratuwa Research Week 2022</strong>
+
 </p>
-<p align="center"><strong>University of Moratuwa Research Week 2022</strong></p>
 
 5.  Nethmi Wijesinghe presented “Anomaly Detection in Image Streams with Explainable AI” at the 3rd Women in Bioinformatics & Data Science LA Conference on 22nd September. [Full program](https://wbds.la/conferences/3WBDSLAC/workshops.html#)
 
 <p align="center">
-  <img src="fig/3WBDS_LA.jpg" width="70%">
+
+<img src="fig/3WBDS_LA.jpg" width="70%"/>
+
 </p>
-<p align="center"><strong>3rd Women in Bioinformatics & Data Science LA Conference</strong></p>
+
+<p align="center">
+
+<strong>3rd Women in Bioinformatics & Data Science LA Conference</strong>
+
+</p>
