@@ -1,12 +1,11 @@
 ---
-#title: "Projects"
 format: html
 page-layout: full
 toc: false
 css: styles.css  # (Add this if you want to use the CSS provided below)
 ---
 
-:::::::: project-container
+:::::::::: project-container
 ::: project-card
 ![](images/research/research-CTV.jpg){.project-image}
 
@@ -50,7 +49,7 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 **Description**: Flood Prediction and Early Warning System using Geographical and Temporal Data Integration.
 
-**Keywords**:  Flood prediction,  spatio-temporal analysis, Data management automation, Threshold optimization
+**Keywords**: Flood prediction, spatio-temporal analysis, Data management automation, Threshold optimization
 
 [View Project](research/project6.qmd)
 :::
@@ -80,7 +79,6 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 :::
 
 ::: project-card
-
 ![](images/research/clap.png){.project-image}
 
 ### Detecting Class Overlapping Regions in Multidimensional Data
@@ -91,5 +89,4 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [View Project](research/project7.qmd)
 :::
-
-::::::::
+::::::::::
