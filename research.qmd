@@ -79,4 +79,17 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 [View Project](research/project5.qmd)
 :::
 
+::: project-card
+
+![](images/research/clap.png){.project-image}
+
+### Detecting Class Overlapping Regions in Multidimensional Data
+
+**Description**: Tool for Detecting and visualizing class overlapping regions in multidimensional data.
+
+**Keywords**: Class overlapping problem, Multidimensional tabular data, R programming language
+
+[View Project](research/project7.qmd)
+:::
+
 ::::::::
