@@ -13,15 +13,18 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 **DOI:** [10.1109/ICITR61062.2023.10382919](https://doi.org/10.1109/ICITR61062.2023.10382919)
 
 **Abstract:**  
+<div class="abstract-snippet">
 Research involving anomaly detection in image streams has seen growth through the years, given the proliferation of high-quality image data in various applications. One such application that is in urgent need of attention is deforestation. Detecting anomalies in this context, however, remains challenging due to the irregular and low-probability nature of deforestation events.
 <span class="more-text" style="display:none;">
 This study introduces two anomaly detection frameworks utilizing machine learning and deep learning for the early detection of deforestation activities in image streams. Furthermore, Explainable AI was used to explain the black box models of the deep learning-based anomaly detection framework. The class imbalance problem, the inter-dependency between the images with time, the lack of available labelled images, a data-driven anomalous threshold, and the trade-off of accuracy while increasing interpretability in the black box optimization methods are some key aspects considered in the model-building process. Our novel framework for anomaly detection in image streams underwent rigorous evaluation using a range of datasets that included synthetic and real-world data, notably datasets related to Amazon’s forest coverage. The objective of this evaluation was to detect occurrences of deforestation in the Amazon. Several metrics were used to evaluate the performance of the proposed framework.
-</span>
-<button class="read-more-btn" onclick="toggleReadMore(this)">Read More</button>
 
 **Keywords:** Deep learning, Deforestation, Closed box, Feature extraction, Anomaly detection
 
 [🔗 View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10382919)
+</span>
+</div>
+
+<button class="read-more-btn" onclick="toggleReadMore(this)">Read More</button>
 
 </div>
 
@@ -34,15 +37,32 @@ This study introduces two anomaly detection frameworks utilizing machine learnin
 **DOI:** [10.1109/ICITR61062.2023.10382916](https://doi.org/10.1109/ICITR61062.2023.10382916)
 
 **Abstract:**  
+<div class="abstract-snippet">
 Research involving anomaly detection in image streams has seen growth through the years, given the proliferation of high-quality image data in various applications. One such application that is in urgent need of attention is deforestation. Detecting anomalies in this context, however, remains challenging due to the irregular and low-probability nature of deforestation events.
 <span class="more-text" style="display:none;">
 This study introduces two anomaly detection frameworks utilizing machine learning and deep learning for the early detection of deforestation activities in image streams. Furthermore, Explainable AI was used to explain the black box models of the deep learning-based anomaly detection framework. The class imbalance problem, the inter-dependency between the images with time, the lack of available labelled images, a data-driven anomalous threshold, and the trade-off of accuracy while increasing interpretability in the black box optimization methods are some key aspects considered in the model-building process. Our novel framework for anomaly detection in image streams underwent rigorous evaluation using a range of datasets that included synthetic and real-world data, notably datasets related to Amazon’s forest coverage. The objective of this evaluation was to detect occurrences of deforestation in the Amazon. Several metrics were used to evaluate the performance of the proposed framework.
-</span>
-<button class="read-more-btn" onclick="toggleReadMore(this)">Read More</button>
-
 
 **Keywords:** Duplicate Image Detection, Vision Transformers, Attention
 
 [🔗 View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10382916)
+</span>
+</div>
+
+<button class="read-more-btn" onclick="toggleReadMore(this)">Read More</button>
 
 </div>
+
+<script>
+function toggleReadMore(button) {
+  const abstractDiv = button.previousElementSibling;
+  const moreText = abstractDiv.querySelector(".more-text");
+  if (moreText.style.display === "none") {
+    moreText.style.display = "inline";
+    button.textContent = "Read Less";
+  } else {
+    moreText.style.display = "none";
+    button.textContent = "Read More";
+  }
+}
+</script>
+
