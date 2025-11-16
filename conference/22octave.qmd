@@ -1,0 +1,40 @@
+---
+title: "OCTAVE Advanced Analytics Symposium 2022"
+format: html
+---
+
+## Celebrating excellence: A RETINA initiative project wins First Place at the OCTAVE Advanced Analytics Symposium 2022
+
+
+<p align="center">
+
+<img src="fig/octave1.png" width="500px"/>
+
+</p>
+
+We are delighted to share that one of our RETINA research projects earned First Place at the OCTAVE Advanced Analytics Symposium 2022, held virtually on 20th May 2022. This event serves as an important national platform for final-year students and recent graduates to showcase innovative research in Data Science and Advanced Analytics.
+
+Our team, Nethmi Wijesinghe, Rashmi Perera, and Nethmee Sellahewa, presented their work on Anomaly detection in image streams using explainable AI under the supervision of Dr. Priyanga Talagala, who conceptualized and guided the technical pathway. This project is a key component of the broader RETINA initiative, which focuses on developing transparent, ethical, and data-driven AI frameworks to tackle real-world challenges.
+
+The symposium brought together ten finalists selected from state universities across Sri Lanka, evaluated by a panel of senior data scientists and industry experts. The session was moderated by Laksrini Akshila Anurangi and organized by OCTAVE, the Data and Advanced Analytics Centre of Excellence at the John Keells Group. OCTAVE plays a vital role in bridging academia and industry, nurturing the next generation of data innovators.
+
+This project, one of many under the RETINA umbrella, emerged as the First Place winner, standing out for its innovative and impactful research. Developed within the RETINA initiative, it impressed the judges with its technical depth, originality, and real-world relevance, highlighting the strength and excellence of our RETINA team’s work.
+
+<p align="center">
+
+<img src="fig/octave2.png" width="500px"/>
+
+</p>
+
+
+We are proud of this achievement and inspired to continue advancing impactful research under the RETINA Lab.
+
+You can watch the presentation here: 
+
+<iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/TpJksfJvomg" 
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>

@@ -16,7 +16,22 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 **Locatoin**: Virtual Conference
 
+**Role**: Poster Presenter
+
 [Read More](conference/22OWSD.qmd)
 :::
 
+::: project-card
+![](images/conferences/octave.png){.project-image}
+
+### OCTAVE Advanced Analytics Symposium 2022
+
+**Period**: 20 May 2022 
+
+**Locatoin**: Virtual Conference
+
+**Role**: Speakers and Winners of the Competition
+
+[Read More](conference/22octave.qmd)
+:::
 ::::::::::
