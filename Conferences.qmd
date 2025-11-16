@@ -1,0 +1,22 @@
+---
+title: "Conferences & Engagements"
+format: html
+page-layout: full
+toc: false
+css: styles.css  # (Add this if you want to use the CSS provided below)
+---
+
+:::::::::: project-container
+::: project-card
+![](images/conferences/logoowsd.png){.project-image}
+
+### OWSD 6th General Assembly and International Conference 2021
+
+**Period**: 8-19 November 2021
+
+**Locatoin**: Virtual Conference
+
+[Read More](conference/22OWSD.qmd)
+:::
+
+::::::::::

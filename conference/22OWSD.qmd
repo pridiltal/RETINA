@@ -1,0 +1,43 @@
+---
+title: "OWSD 6th General Assembly and International Conference 2021"
+format: html
+---
+
+## Presenting Research in a Global Crisis: My Virtual Poster Experience at the OWSD General Assembly"
+
+
+<p align="center">
+
+<img src="fig/logoowsd.png" width="500px"/>
+
+</p>
+
+
+### A Conference without travel
+
+When the pandemic brought global travel to a standstill, academic life transformed almost overnight. Borders closed, flights were canceled, and conference halls fell silent. Yet research did not stop; it adapted. In 2021, I had the opportunity to present my work at the [**OWSD 6th General Assembly and International Conference**](https://assembly2021.owsd.net/), which was centered on the **theme "Women, Science and Development."** The conference explored three critical areas: the importance of basic sciences for development, the impact of applied sciences on development, and the inclusion of sex and gender as variables in scientific research. Although I could not attend in person, I shared my research through a virtual poster presentation, illustrating how knowledge continues to travel and inspire, even when physical movement is restricted.
+
+Our poster, **“Attention Towards Distance Education Tools During COVID-19 Pandemic: Evidence from Google Trends,”** was co-authored with Dr. Thiyanga S. Talagala. The study explored how global interest in digital learning platforms surged when schools closed and education had to shift rapidly online. For researchers, educators, and policymakers grappling with these challenges in real time, this work offered timely insight into how learners adapted and what tools they turned to during crisis-driven remote teaching.
+
+
+### Preparing for a different type of presentation
+
+Unlike a traditional poster pinned to a board in a crowded hall, this conference required us to rethink communication. We were invited not just to upload a poster, but also to record a five-minute video, summarizing methods, insights, and policy relevance. It was a new kind of challenge, compressing meaningful analysis into a concise format that anyone could return to at any moment during the conference.
+
+Every poster presenter was also asked to reflect on how their work aligned with development goals, especially the UN Sustainable Development Goals. For us, the inroads were clear,SDG 4 (Quality Education) and SDG 10 (Reduced Inequalities).
+
+
+### Inside the virtual poster hall
+
+The live poster session on November 9, 2021, took place in GatherTown, a virtual environment designed like a conference lounge. Each presenter had a virtual booth labeled with their surname. I walked my avatar through the poster hall, found my booth, and waited, just as I would in person.
+
+The moment someone’s avatar walked near mine, a video chat opened. Suddenly, we were live, presenting, answering questions, exchanging ideas. Researchers from different continents engaged with the work: asking whether digital divides shaped the trends, whether rising search interest translated into actual access, and how the findings could guide future education policy after COVID-19.
+
+The poster session featured four important discussion themes: **"Applied sciences: impact on development", "Including sex-gender as variables in scientific research", "OWSD members response to COVID-19 pandemic", and "The importance of basic sciences for development".** [All posters are available for viewing here.](https://aaa.underline.io/events/242/library/764)
+
+All posters in my session on [“OWSD Members’ Response to COVID-19 Pandemic” can be viewed here.](https://aaa.underline.io/events/242/library/764?groupId=4470)
+
+[My recorded poster presentation is available here.](https://aaa.underline.io/lecture/40949-attention-towards-distance-education-tools-during-covid-19-pandemic-evidence-from-google-trends)
+
+
+This experience marked a shift in how I thought about academic engagement. It was proof that knowledge-sharing does not stop when the world shuts down. Instead, it adapts. The medium changes, but the purpose remains: to learn, to question, to contribute.

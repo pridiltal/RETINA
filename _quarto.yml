@@ -18,6 +18,8 @@ website:
         text: Research Projects
       - href: publications.qmd
         text: Scholarly Work
+      - href: Conferences.qmd
+        text: Conferences & Engagements
       - href: awards.qmd
         text: Awards
       - href: SDG.qmd
