@@ -15,15 +15,15 @@ website:
       - href: about.qmd
         text: About
       - href: research.qmd
-        text: Research Projects
+        text: Research <br> Projects
       - href: publications.qmd
-        text: Scholarly Work
+        text: Scholarly <br> Work
       - href: Conferences.qmd
-        text: Conferences & Engagements
+        text: Conferences & <br> Engagements
       - href: awards.qmd
         text: Awards
       - href: SDG.qmd
-        text: UN SDG Alignment
+        text: UN SDG <br> Alignment
     right:
       - href: https://prital.netlify.app/
         text: PI's Profile

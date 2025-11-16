@@ -1,0 +1,58 @@
+---
+title: "43rd International Symposium on Forecasting (ISF 2023)"
+format: html
+---
+
+## Reflections from ISF 2023: Chairing, Presenting and Reconnecting in Charlottesville
+
+<p align="center">
+
+<img src="fig/isf43logo.png" width="200px"/>
+
+</p>
+
+I had the privilege of participating in the 43rd International Symposium on Forecasting (ISF 2023), held from June 25 to 28 at the University of Virginia Darden School of Business in Charlottesville, USA. Organized by the [International Institute of Forecasters (IIF)](https://forecasters.org/), ISF is widely recognized as the premier global forecasting conference, bringing together leading researchers, practitioners, and thought leaders from academia, industry, and international organizations.
+
+<p align="center">
+
+<img src="fig/isf43uni.png" width="500px"/>
+
+</p>
+
+Each year, the ISF serves as a platform for integrating academic advances into forecasting practice, spanning a broad range of themes including macroeconomic forecasting, judgmental forecasting, machine learning, electricity demand, supply chains, tourism, IT forecasting, and forecasting for public good. This year's agenda featured an inspiring lineup of keynote speakers, including M. Ayhan Kose from the World Bank Group delivering the Clive Granger Memorial Keynote, along with experts from Microsoft Research, Rice University, Copenhagen Business School, and the International Food Policy Research Institute.
+
+This year, I was honoured to serve **both as a session chair and a speaker**, contributing to the session “ML/AI 6: Anomaly and Fraud Detection” on June 28. As chair, I guided three presentations that explored cutting-edge research in anomaly detection across diverse domains:
+
+A Time Series of Networks. Is Everything OK? Are There Anomalies? by Sevvandi Kandanaarachchi
+
+Forecasting Spoofing Manipulation by Tatiana Franus
+
+Anomaly Detection in Image Time Series (ITS) Using Explainable AI (XAI) by Priyanga Dilini Talagala
+
+<p align="center">
+
+<img src="fig/isf43session.png" width="600px"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="fig/isf43pri.jpg" width="500px"/>
+
+</p>
+
+Moderating this session and engaging with presenters reinforced the importance of interdisciplinary collaboration in advancing forecasting science, especially as data complexity grows.
+
+Beyond the technical sessions, ISF 2023 also offered a rich environment for networking. I had the chance to connect with new colleagues and refresh long-standing academic ties. A particularly meaningful highlight was meeting participants from Monash University, Australia, where I completed my PhD. Reconnecting with that community in an international setting was both energizing and rewarding.
+
+
+<p align="center">
+
+<img src="fig/isf43monash.jpg" width="500px"/>
+
+</p>
+
+**I am deeply grateful to have received travel support through the Early Career Research Fellowship, without which my participation in this prestigious event would not have been possible.**
+
+Overall, ISF 2023 was much more than a conference. It was a space to learn, contribute, reconnect and grow. I return inspired and motivated to continue advancing research in anomaly detection, explainable AI, and forecasting, while contributing to the broader scientific community through the RETINA initiative.

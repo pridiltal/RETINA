@@ -34,4 +34,19 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/22octave.qmd)
 :::
+
+
+::: project-card
+![](images/conferences/isf43.png){.project-image}
+
+### 43rd International Symposium on Forecasting (ISF 2023)
+
+**Period**: 25-28 June 2023
+
+**Locatoin**: University of Virginia Darden School of Business, Charlottesville, USA
+
+**Role**: Speaker and Session Chair
+
+[Read More](conference/23isf43.qmd)
+:::
 ::::::::::
