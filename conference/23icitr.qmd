@@ -1,0 +1,47 @@
+---
+title: "8th International Conference On Information Technology Research (ICITR23)"
+format: html
+---
+
+## Contributing to ICITR 2023: Advancing research through RETINA, OWSD, and Academic Leadership
+
+<p align="center">
+
+<img src="fig/logoowsd.png" width="500px"/>
+
+</p>
+
+I had the honor of participating in the 8th International Conference on Information Technology Research (ICITR 2023), held at the Faculty of Information Technology, University of Moratuwa, Sri Lanka. This prestigious conference continues its mission to foster research excellence in ICT and promote scientific exchange among researchers and scholars. Since its inception in 2018, ICITR has provided a platform for original and cutting-edge research in the field of Information Technology, and from 2018 to 2024, it has been technically co-sponsored by IEEE Sri Lanka Section, further enhancing its global credibility.
+This year, I contributed to the conference in multiple capacities:
+
+
+Author of two publications derived from the RETINA initiative, an interdisciplinary project focusing on explainable and ethical AI solutions.
+
+
+Conference Secretary, supporting the efficient planning and execution of ICITR 2023.
+
+
+Member of the Editorial Board for the conference proceedings, helping ensure the quality and integrity of published research.
+
+
+My involvement included co-authoring the following two research papers:
+
+1. Early Identification of Deforestation using Anomaly Detection
+Authors: N. Wijesinghe, R. Perera, N. Sellahewa, P. D. Talagala
+Published in: 2023 8th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka
+Pages: 1–6
+DOI: 10.1109/ICITR61062.2023.10382919
+This paper presents a data-driven anomaly detection framework for the early identification of deforestation — a vital contribution to sustainability, environmental conservation, and climate action.
+
+2. Cross-vit: Cross-attention Vision Transformer for Image Duplicate Detection
+Authors: M. D. N. Chandrasiri, P. D. Talagala
+Published in: 2023 8th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka
+Pages: 1–6
+DOI: 10.1109/ICITR61062.2023.10382916
+This work introduces a novel cross-attention mechanism within a Vision Transformer architecture to efficiently detect duplicate images, contributing to advancements in large-scale image analytics and explainable AI.
+
+Both research articles emerged from the RETINA initiative, supported by the OWSD Fellowship, which has been instrumental in fostering research growth and capacity building among early-career women scientists. Through this support, students were able to contribute to impactful, real-world AI research while gaining hands-on experience in scientific dissemination.
+Thanks to OWSD’s financial support, the students were able to cover their conference registration costs, ensuring their active participation at ICITR 2023 as members of the RETINA project. This opportunity significantly enhanced their academic visibility, enabling them to present their findings, engage in scholarly discussions, and connect with the regional and global research community.
+Beyond the technical outcomes, this experience empowered students to build professional networks, strengthen confidence, and advance their careers as emerging researchers — demonstrating the transformative power of inclusive and well-supported research environments.
+
+ICITR 2023 continues to serve as an invaluable platform for innovation, collaboration, and knowledge exchange. I am grateful for the opportunity to contribute both academically and organizationally, and I look forward to furthering the mission of impactful and responsible AI research through RETINA and future ICITR events.

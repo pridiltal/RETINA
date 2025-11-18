@@ -6,7 +6,7 @@ toc: false
 css: styles.css  # (Add this if you want to use the CSS provided below)
 ---
 
-:::::::::: project-container
+::::::: project-container
 ::: project-card
 ![](images/conferences/logoowsd.png){.project-image}
 
@@ -26,7 +26,7 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 ### OCTAVE Advanced Analytics Symposium 2022
 
-**Period**: 20 May 2022 
+**Period**: 20 May 2022
 
 **Locatoin**: Virtual Conference
 
@@ -34,7 +34,6 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/22octave.qmd)
 :::
-
 
 ::: project-card
 ![](images/conferences/isf43.png){.project-image}
@@ -49,4 +48,32 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/23isf43.qmd)
 :::
-::::::::::
+
+::: project-card
+![](images/conferences/icitr231.jpg){.project-image}
+
+### 8th International Conference On Information Technology Research (ICITR23)
+
+**Period**: 7- 8 December 2023
+
+**Locatoin**: University of Moratuwa, Sri Lanka
+
+**Role**: Author and Conference Secretary
+
+[Read More](conference/23icitr.qmd)
+:::
+
+::: project-card
+![](images/conferences/carma1.jpg){.project-image}
+
+### 6th International Conference on Advanced Research Methods and Analytics 
+
+**Period**: 26-28 June 2024
+
+**Locatoin**: The Universitat Politècnica de València, Valencia, Spain
+
+**Role**: Invited Speaker
+
+[Read More](conference/24carma.qmd)
+:::
+:::::::

@@ -35,7 +35,6 @@ Anomaly Detection in Image Time Series (ITS) Using Explainable AI (XAI) by Priya
 
 </p>
 
-
 <p align="center">
 
 <img src="fig/isf43pri.jpg" width="500px"/>
@@ -46,13 +45,12 @@ Moderating this session and engaging with presenters reinforced the importance o
 
 Beyond the technical sessions, ISF 2023 also offered a rich environment for networking. I had the chance to connect with new colleagues and refresh long-standing academic ties. A particularly meaningful highlight was meeting participants from Monash University, Australia, where I completed my PhD. Reconnecting with that community in an international setting was both energizing and rewarding.
 
-
 <p align="center">
 
 <img src="fig/isf43monash.jpg" width="500px"/>
 
 </p>
 
-**I am deeply grateful to have received travel support through the Early Career Research Fellowship, without which my participation in this prestigious event would not have been possible.**
+**I am deeply grateful to have received travel support through the OWSD-UNESCO Early Career Research Fellowship, without which my participation in this prestigious event would not have been possible.**
 
 Overall, ISF 2023 was much more than a conference. It was a space to learn, contribute, reconnect and grow. I return inspired and motivated to continue advancing research in anomaly detection, explainable AI, and forecasting, while contributing to the broader scientific community through the RETINA initiative.

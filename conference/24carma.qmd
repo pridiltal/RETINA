@@ -1,0 +1,51 @@
+---
+title: "6th International Conference on Advanced Research Methods and Analytics (CARMA24)"
+format: html
+---
+
+## From Valencia to Salzburg: A European journey of scientific exchange
+
+Beginning on June 28, 2024, I embarked on a remarkable academic journey across Europe, starting in Valencia, Spain, moving through Dijon and Paris, France, and concluding in Salzburg, Austria, to attend four scientific conferences in just two weeks. The 6th International Conference on Advanced Research Methods and Analytics (CARMA 2024) was the first conference of this tour, setting an inspiring tone for the weeks that followed.
+
+<p align="center">
+<img src="fig/carma1.jpg" width="300px"/>
+</p>
+
+## From crisis to opportunity: Presenting at CARMA 2024 in Valencia, Spain
+
+In June 2024, I had the privilege of attending CARMA 2024 as an invited speaker. Held at the Universitat Politècnica de València, this conference brought together researchers, practitioners, and thought leaders exploring the intersection of Big Data, Internet-based methods, and social sciences.
+
+What made this invitation especially meaningful was that it came directly from the organizing committee. After reading our preprint “COVID-19 and Online Learning Tools”, co-authored with Dr. Thiyanga Talagala, Dr. Eduardo Cebrián invited me to present in a special session dedicated entirely to the use of Google Trends in economics and social sciences. His recognition highlighted both the relevance of our work and the increasing importance of Google Trends as a tool for understanding behavioral change during times of global disruption. 
+
+<p align="center">
+  <img src="fig/carma2.jpg" width="500px"/><br>
+  <em>With Eduardo Cebrián, member of the organizing committee</em>
+</p>
+
+During the conference, I also had the opportunity to attend a workshop conducted by Eduardo on working with Google Trends data, a valuable hands-on experience that deepened the connection between methodology and application.
+
+<p align="center">
+<img src="fig/carma3.jpg" width="500px"/>
+</p>
+
+## About the presentation
+
+- Title: From Crisis to Opportunity: A Google Trends Analysis of Global Interest in Distance Education Tools During and Post the COVID-19 Pandemic
+
+- Date & Time: June 28, 2024 · 09:00 AM
+
+- Session: Google Trends in Economics & Social Sciences
+
+- Event: CARMA 2024, Valencia, Spain
+
+In this talk, I discussed how global interest in digital learning tools surged during the pandemic, and how patterns of adoption have evolved in the years following. Drawing on Google Trends data, we traced shifts in demand, geographic variations, and the broader implications for education policy, technology investment, and the future of digital learning.
+
+<p align="center">
+<img src="fig/carma4.jpg" width="500px"/>
+</p>
+
+## A RETINA Initiative Output
+
+This work was carried out under the RETINA initiative, supported by OWSD, and co-authored with Dr. Thiyanga Talagala. My participation at CARMA 2024 and this entire European academic tour was made possible thanks to the OWSD-UNESCO Early Career Research Fellowship. Their travel support enabled me to attend in person, something that would have been impossible otherwise. I am deeply grateful for their commitment to supporting women scientists and global research mobility.
+
+With CARMA setting a powerful start, I continued my journey to the 44th International Symposium on Forecasting (ISF 2024) in Dijon, followed by the 8th International Conference on Education and Distance Learning in Paris, and finally UseR! 2024 in Salzburg. Each conference brought new perspectives, collaborators, and insights, reinforcing the importance of global academic exchange. CARMA was not just the beginning of a conference tour, but the start of an inspiring journey of scientific dialogue across Europe.
