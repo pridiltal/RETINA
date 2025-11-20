@@ -1,0 +1,71 @@
+---
+title: "44th International Symposium on Forecasting (ISF24)"
+format: html
+---
+
+## ISF 2024, Dijon, France: Returning to a conference that feels like home
+
+Just days after presenting at CARMA 2024 in Valencia, I travelled to Dijon, France, for the 44th International Symposium on Forecasting (ISF 2024), the second stop in my European conference journey. ISF is a premier forecasting conference, attracting the world’s leading forecasting researchers, practitioners, and students. It holds a special place in my academic life. This year marked my sixth time attending the symposium, and each visit reminds me why it remains one of the most intellectually enriching gatherings in the forecasting community. 
+<p align="center">
+
+<img src="fig/isf24logo.png" width="500px"/>
+
+</p>
+
+### Serving as session chair and speaker in the Econometrics I Session
+
+One of the highlights of ISF 2024 was the opportunity to serve as the Session Chair for the Econometrics I session, held in the Monthelie room. Guiding a session filled with cutting-edge methodological contributions was both an honour and a responsibility I deeply appreciated. The session offered a diverse range of perspectives on time series analysis, volatility modelling, and anomaly detection:
+
+Hongtao Hu gave an insightful talk on "Fast Hampel: Enhancing time series outlier detection performance through a novel 9mplementation of the Hampel Filter," where he highlighted how this new approach significantly improves the robustness and efficiency of outlier detection.
+
+<p align="center">
+
+<img src="fig/24isf2.jpg" width="500px"/>
+
+</p>
+
+Vittorio Maniezzo delivered a compelling presentation on "Extended set covering model for change point detection," explaining how his model offers a systematic and optimized framework for identifying structural shifts in time series data.
+
+<p align="center">
+
+<img src="fig/24isf3.jpg" width="500px"/>
+
+</p>
+
+Jiawen Xu presented her  innovative work titled "A multifrequency shot-noise approach to volatility forecasting,” demonstrating how multifrequency modelling can better capture complex market dynamics and improve forecasting accuracy.
+
+
+<p align="center">
+
+<img src="fig/24isf4.jpg" width="500px"/>
+
+</p>
+
+Finally, I delivered my talk on “A Backcasting Approach for Anomaly Detection in Time Series Data,” where I explained how backcasting can improve the detection of anomalies, especially in complex real-world datasets. This presentation was based on a project conducted under the RETINA initiative.
+
+<p align="center">
+
+<img src="fig/24isf1.jpg" width="500px"/>
+
+</p>
+
+
+Further, I had the chance to engage with session participants who shared similar methodological interests. The environment fostered lively discussions, fresh ideas, and new collaborations.
+
+### A chance to reconnect with my academic roots
+
+Another memorable part of ISF 2024 was reconnecting with familiar faces from Monash University, where I completed my PhD. Meeting researchers from my academic home after several years felt both rewarding and energizing. These conversations brought back memories of formative research experiences and opened up pathways for renewed collaborations.
+
+<p align="center">
+
+<img src="fig/24isf5.jpg" width="500px"/>
+
+</p>
+
+### OWSD Fellowship: Making this journey possible
+
+My participation at ISF 2024 was made possible thanks to the generous support of the OWSD Fellowship. Without this funding, attending an international conference series of this scale simply would not have been feasible. I am sincerely grateful for their commitment to empowering women scientists and enabling global research engagement.
+
+As the second conference in my Europe-wide academic tour, ISF 2024 added depth, connection, and continuity to the journey. From chairing an econometrics session to presenting my own work, to reconnecting with colleagues in the global forecasting community, this experience strengthened my ties to the forecasting community and reaffirmed the importance of shared scholarly spaces.
+
+My journey then continued to Paris for the 8th International Conference on Education and Distance Learning.

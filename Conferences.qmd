@@ -76,4 +76,19 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/24carma.qmd)
 :::
+
+
+::: project-card
+![](images/conferences/isf24logo.png){.project-image}
+
+### 44th International Symposium on Forecasting (ISF24)
+
+**Period**: 30 June -3 Juluy 2024
+
+**Locatoin**:  Palais des Congrès, Dijon, France
+
+**Role**: Session Chair and Speaker
+
+[Read More](conference/24isf.qmd)
+:::
 :::::::
