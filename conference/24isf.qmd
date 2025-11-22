@@ -5,7 +5,8 @@ format: html
 
 ## ISF 2024, Dijon, France: Returning to a conference that feels like home
 
-Just days after presenting at CARMA 2024 in Valencia, I travelled to Dijon, France, for the 44th International Symposium on Forecasting (ISF 2024), the second stop in my European conference journey. ISF is a premier forecasting conference, attracting the world’s leading forecasting researchers, practitioners, and students. It holds a special place in my academic life. This year marked my sixth time attending the symposium and each visit reminds me why it remains one of the most intellectually enriching gatherings in the forecasting community. 
+Just days after presenting at CARMA 2024 in Valencia, I travelled to Dijon, France, for the 44th International Symposium on Forecasting (ISF 2024), the second stop in my European conference journey. ISF is a premier forecasting conference, attracting the world’s leading forecasting researchers, practitioners, and students. It holds a special place in my academic life. This year marked my sixth time attending the symposium and each visit reminds me why it remains one of the most intellectually enriching gatherings in the forecasting community.
+
 <p align="center">
 
 <img src="fig/isf24logo.png" width="500px"/>
@@ -32,8 +33,7 @@ Vittorio Maniezzo delivered a compelling presentation on "Extended set covering 
 
 </p>
 
-Jiawen Xu presented her  innovative work titled "A multifrequency shot-noise approach to volatility forecasting,” demonstrating how multifrequency modelling can better capture complex market dynamics and improve forecasting accuracy.
-
+Jiawen Xu presented her innovative work titled "A multifrequency shot-noise approach to volatility forecasting,” demonstrating how multifrequency modelling can better capture complex market dynamics and improve forecasting accuracy.
 
 <p align="center">
 
@@ -48,7 +48,6 @@ Finally, I delivered my talk on “A backcasting approach for anomaly detection 
 <img src="fig/24isf1.jpg" width="500px"/>
 
 </p>
-
 
 Further, I had the chance to engage with session participants who shared similar methodological interests. The environment fostered lively discussions, fresh ideas, and new collaborations.
 

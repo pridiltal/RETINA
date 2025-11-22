@@ -1,0 +1,42 @@
+---
+title: "8th International Conference on Education and Distance Learning (ICEDL 2024)"
+format: html
+---
+
+## Presenting at ICEDL 2024 in Paris: Exploring global trends in distance education
+
+After attending ISF 2024 in Dijon, my European research journey continued with the 8th International Conference on Education and Distance Learning (ICEDL 2024). The event was held in Paris, France, from July 04–06, 2024, bringing together researchers, educators, and practitioners working at the intersection of technology and learning.
+
+
+<p align="center">
+
+<img src="fig/ICEDL24_1.jpg" width="500px"/>
+
+</p>
+
+I presented my talk titled “Exploring dynamics and trends in distance education: Insights from global web search queries in the post-pandemic era”, co-authored with Dr. Thiyanga Talagala. The study builds on our earlier work, “COVID-19 and Online Learning Tools,” where we analyzed how interest in digital learning tools changed during and after the pandemic using global web search behavior.
+
+<p align="center">
+
+<img src="fig/ICEDL24.jpg" width="500px"/>
+
+</p>
+
+
+Group photo with the participants of my presentation session, taken after a series of meaningful discussions on online learning trends.
+
+<p align="center">
+
+<img src="fig/ICEDL24_2.jpg" width="500px"/>
+
+</p>
+
+
+ICEDL was an excellent fit for this research. The conference focuses specifically on education, digital learning, and innovative teaching models, which allowed me to connect with experts who are deeply engaged in shaping the future of online learning. The discussions were meaningful and helped me think about new directions such as understanding learner behavior in different regions, improving accessibility, and extending our current analysis with more recent data. I had the chance to interact with researchers from around the world, exchange teaching experiences, and discuss new research ideas related to distance learning.
+
+
+### OWSD Fellowship: Making this journey possible
+
+I am deeply grateful for the support received through the OWSD Fellowship, without which this conference travel and the opportunity to present my work internationally would not have been possible. Their continuous encouragement and funding have played a vital role in enabling my participation in global research spaces and strengthening my contributions to the field.
+
+This conference marked the third stop in my Europe conference tour, and it strengthened my interest in exploring how data-driven approaches can guide the next phase of global education.
