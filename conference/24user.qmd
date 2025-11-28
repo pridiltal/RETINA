@@ -1,0 +1,62 @@
+---
+title: "useR! 2024"
+format: html
+---
+
+## Presenting at useR! 2024 in Salzburg: Celebrating R, open science, and global collaboration
+
+The final destination of my European conference tour was useR! 2024, held from July 9–11, 2024, in the beautiful city of Salzburg, Austria. As the main international conference for users and developers of the R programming language, useR! brings together a vibrant global community of data scientists, statisticians, researchers, and R enthusiasts. It was the perfect place to conclude an inspiring and intellectually rich journey across Europe.
+
+<p align="center">
+
+<img src="fig/user2024.jpg" width="500px"/>
+
+</p>
+
+### My presentation: Introducing the `clap` R package
+
+I presented my talk on Wednesday, July 10, titled:
+
+"Exploring Class Overlap in Classification Challenges: Introducing the R Package `clap'"
+
+<p align="center">
+
+<img src="fig/usertalk.jpg" width="500px"/>
+
+</p>
+
+This work, developed at the University of Moratuwa, focuses on understanding class overlap—an issue that often complicates classification tasks and offers an R package designed to help researchers and practitioners detect and measure it effectively. Presenting this research at useR! was especially meaningful, as it directly contributes to the open-source ecosystem that powers so much of modern data science.
+
+### Session highlights: Big and High-Dimensional Data
+
+My talk was part of the **Big and High-Dimensional Data** session, alongside two excellent presentations:
+
+"Visualize Your Fitted Nonlinear Dimension Reduction Model in High-Dimensional Space"
+Jayani Piyadi Gamage, Monash University, Australia
+
+Jayani demonstrated elegant visualization techniques for nonlinear dimension reduction models, providing tools that make complex structures easier to interpret.
+
+"The DiscreteFDR Package for Multiple Testing with Discrete Data"
+Florian Junge & Sebastian Döhler, Darmstadt University of Applied Sciences
+
+They introduced a robust package designed to handle multiple testing scenarios involving discrete data, addressing challenges faced in many applied fields.
+
+The session was rich, engaging, and technically stimulating, covering cutting-edge tools and solutions for modern data challenges.
+
+### Connecting with the global R community
+
+One of the greatest strengths of useR! is the community it brings together. I had the opportunity to meet several top contributors and developers in the R ecosystem, a truly unique experience.
+
+A particularly meaningful conversation was with the main maintainer of the CRAN Task Views, including discussions about the Anomaly Detection Task View. This allowed me to share and popularize our work within the R community, learn about the latest developments in R packages and infrastructure, explore ways to enhance visibility and usability of tools in anomaly detection and related topics and engage with developers who shape the direction of R’s future
+
+These interactions were energizing and reaffirmed the importance of contributing to open-source research. R is a freely available, community-driven language, and being part of its active knowledge-sharing culture was both inspiring and rewarding.
+
+## A Memorable conclusion to my conference tour
+
+useR! 2024 marked the fourth and final stop on my European academic journey. Ending the tour in Salzburg, surrounded by innovative ideas, enthusiastic developers, and a strong spirit of collaboration was the perfect culmination of two weeks of learning, presenting, and connecting across Europe.
+
+This experience has strengthened my commitment to open science and reinforced the importance of community-driven knowledge growth. I return with new perspectives, deeper connections, and renewed motivation to contribute to the R ecosystem and the wider data science community.
+
+### Acknowledging OWSD support
+
+I would like to express my sincere gratitude to the OWSD Fellowship for providing the essential travel support that made this entire European conference tour possible. Attending four international conferences across Spain, France, and Austria within a short period was an extraordinary scholarly opportunity, one that would not have been achievable without OWSD’s financial assistance and continuous encouragement. Their support enabled me to present my work, connect with global research communities, and expand the visibility of my contributions in forecasting, education, and open-source data science.

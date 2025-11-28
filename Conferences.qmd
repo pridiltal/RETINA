@@ -105,4 +105,18 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/24ICEDL.qmd)
 :::
+
+::: project-card
+![](images/conferences/user24.jpg){.project-image}
+
+### useR! 2024
+
+**Period**: 8 - 11 July, 2024
+
+**Locatoin**:  Salzburg, Austria
+
+**Role**: Speaker
+
+[Read More](conference/24user.qmd)
+:::
 :::::::
