@@ -119,4 +119,20 @@ css: styles.css  # (Add this if you want to use the CSS provided below)
 
 [Read More](conference/24user.qmd)
 :::
+
+
+
+::: project-card
+![](images/conferences/icitr241.jpg){.project-image}
+
+### 9th International Conference On Information Technology Research (ICITR24)
+
+**Period**: 6 December 2024
+
+**Locatoin**: University of Moratuwa, Sri Lanka
+
+**Role**: Author and Conference Secretary
+
+[Read More](conference/24icitr.qmd)
+:::
 :::::::

@@ -63,3 +63,20 @@ Bumuth Gajakum, Faculty of Information Technology, University of Moratuwa, Morat
 ### Publicaitons
 
 1.  M.H.D.B Gajakum, M. D. N. Chandrasiri and P. D. Talagala, "Dynamic Cluster Specific Ensembles with Explainable AI for Flood Hazard Prediction," 2025 10th International Conference on Information Technology Research (ICITR), Colombo, Sri Lanka, 2025, (Under Review)
+
+### Awards
+
+
+Best Presenter Award, Data Analytics Track, 10th International Conference on Information Technology Research (ICITR) 2025, Faculty of Information Technology, University of Moratuwa
+
+<p align="center">
+
+<img src="fig/ICITR25.jpg" width="60%"/>
+
+</p>
+
+<p align="center">
+
+<strong> Best Presenter Award, Data Analytics Track - ICITR 2025</strong>
+
+</p>

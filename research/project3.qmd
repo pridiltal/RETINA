@@ -66,6 +66,6 @@ Location: University of Moratuwa, Sri Lanka
 
 <p align="center">
 
-<strong>Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024</strong>
+<strong> Best Paper Award, Data Science and Data Driven Applications Track - ICITR 2024</strong>
 
 </p>

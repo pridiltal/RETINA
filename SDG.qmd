@@ -16,7 +16,7 @@ At the RETINA Lab, we design data-driven, explainable, and ethically aligned AI 
 ## SDG Impact Matrix
 
 | Project | SDGs addressed | How it supports sustainability |
-|------------------|:---------------------------------:|--------------------|
+|----|:--:|----|
 | [CRAN Task View: Anomaly Detection with R](research/project2.qmd) | <img src="images/sdg/SDG9.png" width="100"/> \newline  <img src="images/sdg/SDG17.png" width="100"/> | Makes advanced anomaly detection methods globally accessible through an open, peer-reviewed resource. This accelerates research, supports innovation ecosystems, and facilitates knowledge-sharing among scientists, industry, and institutions. |
 | [Explainable Anomaly Detection in Image Streams](research/project1.qmd) | <img src="images/sdg/SDG13.png" width="100"/> \newline  <img src="images/sdg/SDG11.png" width="100"/> | Detects early signs of deforestation, floods, volcanic impact, and other environmental anomalies using AI and satellite imagery. This enables timely intervention, reduces disaster impact on communities, and supports sustainable resource monitoring. |
 | [Meta-Learning for Time Series Anomaly Detection](research/project3.qmd) | <img src="images/sdg/SDG8.png" width="100"/> \newline  <img src="images/sdg/SDG9.png" width="100"/> | Provides an adaptable framework to detect anomalies in financial, industrial, and operational data, preventing economic losses, improving system reliability, and promoting technology-driven sustainable growth. |

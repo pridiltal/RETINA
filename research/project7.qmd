@@ -9,22 +9,19 @@ format: html
 
 ## Project Overview
 
-
-
 <p align="center">
-  <img src="fig/clap.png" width="200px">
-</p>
 
+<img src="fig/clap.png" width="200px"/>
+
+</p>
 
 The issue of class overlap in classification arises when two or more classes share similar feature representations, making it challenging for a classification model to differentiate between them with accuracy. This problem can lead to misclassification errors, which can significantly impact the performance of classification models and make it difficult to interpret the decision-making process. In this session, I will discuss our novel XAI framework that provides post-hoc, model-agnostic, and local explanations to enhance the trustworthiness of classification models in the presence of overlapping problems. Our framework derives a feature map using different transfer learning approaches, reduces feature space dimensionality, detects overlapping regions using density estimation, and integrates an XAI module to explain the classification model. We assess the framework’s validity using real-world datasets and demonstrate its usefulness in enhancing model transparency and interpretability in the presence of class overlapping problems. Furthermore, we introduce the R package "clap" to facilitate the detection of overlapping regions in multidimensional data, as proposed in our approach.
 
 The development version of this project can be explored on GitHub. [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/pridiltal/clap)
 
-
 ## Project Team
 
 Dr. Priyanga Dilini Talagala, Department of Computational Mathematics, University of Moratuwa, Sri Lanka
-
 
 ## Outputs
 
@@ -32,12 +29,11 @@ Dr. Priyanga Dilini Talagala, Department of Computational Mathematics, Universit
 
 Talagala, P. D. (2024). clap: Detecting class overlapping regions in multidimensional data (R package version 0.1.0). https://doi.org/10.32614/CRAN.package.clap
 
-
-
 <p align="center">
-  <img src="fig/clap.png" width="300px">
-</p>
 
+<img src="fig/clap.png" width="300px"/>
+
+</p>
 
 ### Publicaitons
 
@@ -49,20 +45,18 @@ Event: [useR! 2024, Salzburg, Austria](https://userconf2024.sched.com/)
 
 [Slides](https://pridiltal.github.io/useR2024-talk/#/)
 
-<iframe 
-    src="https://pridiltal.github.io/useR2024-talk/#/" 
-    width="100%" 
-    height="500px" 
-    style="border: 1px solid #ccc; border-radius: 10px;">
+<iframe src="https://pridiltal.github.io/useR2024-talk/#/" width="100%" height="500px" style="border: 1px solid #ccc; border-radius: 10px;">
+
 </iframe>
 
+<p align="center">
+
+<img src="fig/usertalk.jpg" width="90%"/>
+
+</p>
 
 <p align="center">
-  <img src="fig/usertalk.jpg" width="90%">
+
+<strong>At the useR! 2024, Salzburg, Austria</strong>
+
 </p>
-<p align="center"><strong>At the useR! 2024, Salzburg, Austria</strong></p>
-
-
-
-
-

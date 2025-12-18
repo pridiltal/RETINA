@@ -1,0 +1,94 @@
+---
+title: "9th International Conference On Information Technology Research (ICITR24)"
+format: html
+---
+
+## OWSD Fellowship Powers RETINA Lab’s Outstanding Contributions at ICITR 2024
+
+<p align="center">
+
+<img src="fig/logoowsd.png" width="500px"/>
+
+</p>
+
+The 9th International Conference on Information Technology Research (ICITR 2024), organized by the Faculty of Information Technology at the University of Moratuwa, was a remarkable event for our research community. This year, the RETINA Lab marked an important milestone by presenting four research studies, all completed under the RETINA initiative.
+
+I attended the conference for the second time as the Conference Secretary and it was inspiring to see how strongly our research group was represented at the event. The work presented by our team covered forecasting, disease surveillance, modelling and interpretable machine learning—areas that continue to grow in global importance.
+
+A special highlight was that one of our papers won the Best Paper Award, placing RETINA Lab at the center of attention in the Data Science and Data-Driven Applications Track.
+
+### Best Paper Award: Generalized Meta Framework for Forecasting
+
+Authors:
+
+Theepana Govintharajah
+
+Pavadaran Pathmaranjan
+
+Gowsigan Kanagalingam
+
+Priyanga Dilini Talagala
+
+Presenter: Theepana Govintharajah
+
+The paper “Generalized Meta Framework for Forecasting” received the Best Paper Award in the Data Science and Data-Driven Applications Track. This work introduced a generalized meta-learning approach that improves forecasting performance by combining multiple models in a flexible and adaptive way.
+
+Theepana’s presentation was clear and well-structured and many participants expressed strong interest in the methodology and its practical applications.
+
+
+<p align="center">
+
+<img src="fig/ICITR24.png" width="500px"/>
+
+</p>
+
+### Research Presented by RETINA Lab
+
+In addition to the award-winning study, three more RETINA-led papers were presented at ICITR 2024. Each project contributed valuable insights to data science and statistical learning.
+
+1.  Early Disease Outbreak Detection in Spatio-Temporal Data Using Predictive Modeling and Extreme Value Theory
+
+Authors: Senevirathne E.G.M.A., Priyanga Dilini Talagala Presenter: Milindi Senevirathne
+
+This study developed statistical and predictive models to detect early warning signals of disease outbreaks using spatial and temporal patterns. The work addresses a crucial public health need and highlights how modelling techniques can support early intervention.
+
+<p align="center">
+
+<img src="fig/ICITR24_2.jpg" width="500px"/>
+
+</p>
+
+2.  Improving Class Imbalance in the Classification of Multi-Dimensional Data: Interpretable Model Design and Evaluation
+
+Authors: Gayathri Sivakumar, Chambavy Balasundaram, Vithursan Thevendran, Priyanga Dilini Talagala Presenter: Vithursan Thevendran
+
+This project tackled the challenge of class imbalance in machine learning. The researchers proposed interpretable classification models that show both improved accuracy and transparent decision-making—an important requirement in modern AI systems.
+
+<p align="center">
+
+<img src="fig/ICITR24_3.jpg" width="500px"/>
+
+</p>
+
+3.  Enhancing Demand Forecasting in Food Manufacturing: Hierarchical Analysis of Aggregated and Individual Models
+
+Authors: Achala Hasini Perera, Priyanga Dilini Talagala, H. Niles Perera, Amila Thibbotuwawa Presenter: Achala Hasini Perera
+
+This research explored how hierarchical forecasting methods can support better production planning in the food manufacturing industry. The study demonstrated how aggregated and disaggregated models contribute to improved demand predictions and more efficient resource use.
+
+
+<p align="center">
+
+<img src="fig/ICITR24_4.jpg" width="500px"/>
+
+</p>
+
+
+All four papers have been submitted to the IEEE Xplore Digital Library and are indexed by SCOPUS, giving our research international visibility and long-term academic impact.
+
+ICITR 2024 also provided a strong platform for our researchers to build connections, receive expert feedback, and strengthen their confidence in presenting to global audiences.
+
+### Acknowledgement: OWSD Fellowship
+
+All four RETINA projects presented at ICITR 2024 were made possible through the generous support of the OWSD (Organization for Women in Science for the Developing World) Fellowship. Without this support, it would have been difficult for our students to present their work at an international conference. We are deeply grateful to OWSD for supporting young researchers and enabling them to reach global platforms.
+
